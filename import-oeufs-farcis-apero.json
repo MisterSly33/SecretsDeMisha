@@ -1,0 +1,1199 @@
+{
+  "app": "Les Secrets de Misha",
+  "version": "import",
+  "exportedAt": "2026-08-05T19:45:08.845772Z",
+  "recipes": [
+    {
+      "id": "r4d53a4750872",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis au thon citronné",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "rc88c3b692581",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r7440d139bc5c",
+          "mercurialeId": "rf624ab71d98b",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Thon égoutté (boîte)"
+        },
+        {
+          "id": "r6b8240b17674",
+          "mercurialeId": "r796ee605cac1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Mayonnaise"
+        },
+        {
+          "id": "r578be2a3b8a1",
+          "mercurialeId": "rd78c49added1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "re0d184edc9d6",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Persil frais"
+        }
+      ],
+      "steps": "1. Coupez les œufs durs en deux dans la longueur, puis retirez délicatement les jaunes.\n2. Dans un bol, écrasez les jaunes avec le thon, la mayonnaise et le jus de citron jusqu'à obtenir une texture crémeuse.\n3. Garnissez les blancs d'œufs avec cette préparation.\n4. Ajoutez un peu de persil frais pour la décoration.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r17d1a32da58d",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis au saumon fumé",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "r5b58ecc92532",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r6a72fd1d2572",
+          "mercurialeId": "r3d6db2904dbe",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Saumon fumé"
+        },
+        {
+          "id": "recf47e409cea",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "rb283a4dda319",
+          "mercurialeId": "r63b15b6eb2ea",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Aneth frais"
+        },
+        {
+          "id": "r399082287320",
+          "mercurialeId": "rd78c49added1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Jus de citron"
+        }
+      ],
+      "steps": "1. Retirez les jaunes des œufs durs.\n2. Mixez-les avec le saumon fumé et le fromage frais jusqu'à obtenir une mousse lisse.\n3. Ajoutez l'aneth ciselé et quelques gouttes de citron.\n4. Remplissez les blancs d'œufs à l'aide d'une cuillère ou d'une poche à douille.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r35e8d56a1efe",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis à l'avocat",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "r81bf32d4c1e4",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r4775fe5eb112",
+          "mercurialeId": "rfe734ef1f135",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Avocat"
+        },
+        {
+          "id": "r47dea15cbadd",
+          "mercurialeId": "rd78c49added1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "re354717b72ce",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r338e97b449f3",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Écrasez l'avocat avec les jaunes d'œufs.\n2. Ajoutez un filet de jus de citron, du sel et du poivre.\n3. Mélangez jusqu'à obtenir une crème bien onctueuse.\n4. Garnissez les blancs d'œufs et servez rapidement pour garder une belle couleur verte.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r41184fd06e40",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis aux crevettes",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "ra6c02d81683e",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "rc3cf3dc35eae",
+          "mercurialeId": "r247229f74e7a",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Crevettes cuites décortiquées"
+        },
+        {
+          "id": "rcd2d1ff0c3a3",
+          "mercurialeId": "r796ee605cac1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Mayonnaise"
+        },
+        {
+          "id": "r0c796d80db1e",
+          "mercurialeId": "rddc30b2ac29a",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Ciboulette"
+        },
+        {
+          "id": "r8a0f2fc1f2fd",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Hachez finement les crevettes.\n2. Mélangez-les avec les jaunes d'œufs écrasés, la mayonnaise, la ciboulette et un peu de poivre.\n3. Farcissez les blancs d'œufs avec cette préparation.\n4. Placez au frais avant de servir.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r0f780d4b44c9",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis fromage ail et fines herbes",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "ree63ea0466a1",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r89c07c60edfe",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "r5b7fafef6edb",
+          "mercurialeId": "ra227d74e55db",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Ail"
+        },
+        {
+          "id": "rbd60616fe06b",
+          "mercurialeId": "r8f248520efa4",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fines herbes"
+        },
+        {
+          "id": "r053f742be0bf",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Écrasez les jaunes d'œufs avec le fromage frais.\n2. Ajoutez l'ail haché, les fines herbes et une touche de poivre.\n3. Mélangez bien jusqu'à obtenir une farce crémeuse.\n4. Garnissez les blancs d'œufs et décorez avec quelques herbes fraîches.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "re087854dd07c",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis poulet curry",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "rdfbfde07bf2f",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "re8a924490fbf",
+          "mercurialeId": "r438c456bb80a",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Poulet cuit"
+        },
+        {
+          "id": "r352afcdba01f",
+          "mercurialeId": "re66c63dc23c4",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Curry (épice)"
+        },
+        {
+          "id": "r173b438e1f15",
+          "mercurialeId": "r796ee605cac1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Mayonnaise"
+        },
+        {
+          "id": "r2dd8b9910a5a",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Persil frais"
+        }
+      ],
+      "steps": "1. Émiettez finement le poulet cuit.\n2. Mélangez-le avec les jaunes d'œufs, la mayonnaise et le curry.\n3. Travaillez la préparation jusqu'à obtenir une texture homogène.\n4. Remplissez les blancs d'œufs, puis ajoutez un peu de persil avant de servir.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r0f9b5d608b8e",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis à la betterave",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "rb9e2aa53f8df",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "ra4087caef2b7",
+          "mercurialeId": "r5474e933ce92",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Betterave cuite"
+        },
+        {
+          "id": "r1f8c62f13f3f",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "r82d45706b590",
+          "mercurialeId": "rd78c49added1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "r5adfcbb56755",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Mixez la betterave avec les jaunes d'œufs et le fromage frais.\n2. Ajoutez quelques gouttes de citron et un peu de poivre.\n3. Lorsque la mousse est bien lisse, garnissez les blancs d'œufs.\n4. Servez bien frais.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r507e1691d538",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis au jambon",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "r6e6a66c5ee33",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r323f127f3a3c",
+          "mercurialeId": "reb4b3f2fcd89",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Jambon"
+        },
+        {
+          "id": "r6383f929a993",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "ree1f395da561",
+          "mercurialeId": "rddc30b2ac29a",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Ciboulette"
+        },
+        {
+          "id": "r9ef0a8848e85",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Mixez le jambon avec les jaunes d'œufs et le fromage frais.\n2. Ajoutez la ciboulette ciselée et une pincée de poivre.\n3. Mélangez jusqu'à obtenir une farce douce et crémeuse.\n4. Garnissez les œufs, puis servez bien frais.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r310d6662efca",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis aux sardines",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "rd7fd2bc7bbb1",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "rf980a048aeca",
+          "mercurialeId": "rea55ed44aa0c",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sardines égouttées (boîte)"
+        },
+        {
+          "id": "ra5ba86b6fba8",
+          "mercurialeId": "rd78c49added1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "r3744fbb0a4fd",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Persil frais"
+        },
+        {
+          "id": "rc865efb407cb",
+          "mercurialeId": "re98cee6f9767",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Piment doux"
+        }
+      ],
+      "steps": "1. Écrasez les sardines avec les jaunes d'œufs.\n2. Ajoutez un filet de jus de citron, du persil haché et un peu de piment doux.\n3. Mélangez jusqu'à obtenir une préparation savoureuse.\n4. Remplissez les blancs d'œufs et décorez selon votre goût.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r78f1ec61441b",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis au fromage bleu",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "r40a642215f7d",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r6f1bceb026e0",
+          "mercurialeId": "r7c9649837caa",
+          "quantity": 80,
+          "unit": "g",
+          "name": "Fromage bleu"
+        },
+        {
+          "id": "rc43c7ef99ed6",
+          "mercurialeId": "rb6985a597aae",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Crème fraîche"
+        },
+        {
+          "id": "rff83641dd0b1",
+          "mercurialeId": "rbcece27bae22",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Noix concassées"
+        },
+        {
+          "id": "r9648f27af66b",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Écrasez les jaunes d'œufs avec le fromage bleu et la crème fraîche.\n2. Poivrez légèrement, puis mélangez jusqu'à obtenir une texture crémeuse.\n3. Garnissez les blancs d'œufs.\n4. Ajoutez quelques noix concassées sur le dessus.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r6ca65b6dd75b",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis tomate basilic",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "r340f8cde9d74",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "re037c15a8a8a",
+          "mercurialeId": "r45d3ecd9c3ea",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Tomate"
+        },
+        {
+          "id": "r1c6e15de4d75",
+          "mercurialeId": "r8db755e9d811",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Basilic frais"
+        },
+        {
+          "id": "r5fb0be57d8f0",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "r1bd92b3c763f",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r6ae41b70f385",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Coupez la tomate en petits dés.\n2. Mélangez les jaunes d'œufs avec le fromage frais.\n3. Ajoutez la tomate et le basilic ciselé.\n4. Salez, poivrez légèrement, puis garnissez les blancs d'œufs.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r5ac7e8099e98",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis carotte cumin",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "r530fef4f7ce0",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r93886c4f039e",
+          "mercurialeId": "r3bf2b152ddac",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Carotte râpée"
+        },
+        {
+          "id": "r2e369a90b995",
+          "mercurialeId": "r14e77102540f",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Cumin"
+        },
+        {
+          "id": "r916c47f90ce6",
+          "mercurialeId": "r796ee605cac1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Mayonnaise"
+        },
+        {
+          "id": "rc3949eeaa77f",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Persil frais"
+        }
+      ],
+      "steps": "1. Faites revenir ou cuire légèrement la carotte râpée pour l'attendrir.\n2. Mélangez-la avec les jaunes d'œufs, la mayonnaise et le cumin.\n3. Ajoutez un peu de persil haché.\n4. Farcissez les blancs d'œufs, puis réservez au frais.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "rff04a4b82f25",
+          "mode": "Poêle (attendrir la carotte)",
+          "duration": 5
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "rcd5728985ecd",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis aux champignons",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "r2639672476bb",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "re67dcd824473",
+          "mercurialeId": "re324e918daaf",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Champignons"
+        },
+        {
+          "id": "ref81f38f91dd",
+          "mercurialeId": "rb6985a597aae",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Crème fraîche"
+        },
+        {
+          "id": "r2015f3c2d354",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Persil frais"
+        },
+        {
+          "id": "r918e9fa80b3b",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Faites revenir les champignons à la poêle jusqu'à ce qu'ils soient bien fondants.\n2. Mixez-les avec les jaunes d'œufs et la crème fraîche.\n3. Ajoutez le persil et le poivre.\n4. Garnissez les blancs d'œufs et servez frais ou légèrement tiède.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "re9f4a6fbc53e",
+          "mode": "Poêle",
+          "duration": 8
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "r9c08d1c96ab1",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis au poivron grillé",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "rffc97643deb3",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r7f8ab611b6cf",
+          "mercurialeId": "r21709c3d973a",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Poivron rouge grillé"
+        },
+        {
+          "id": "r24029be731f9",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "reaf11732eb88",
+          "mercurialeId": "r5cca86491ca2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Paprika"
+        },
+        {
+          "id": "rdd0f0bf37e0d",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Persil frais"
+        }
+      ],
+      "steps": "1. Mixez le poivron grillé avec les jaunes d'œufs.\n2. Ajoutez le fromage frais et une pincée de paprika.\n3. Mélangez jusqu'à obtenir une mousse lisse et colorée.\n4. Farcissez les œufs, puis décorez avec du persil.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "re4f17f33793d",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis feta concombre",
+      "category": "Apéritif",
+      "ingredients": [
+        {
+          "id": "r4087d2bf7dcd",
+          "mercurialeId": "r52875f8039b3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs durs"
+        },
+        {
+          "id": "r7f9eb7d3127d",
+          "mercurialeId": "rb33c2ecf48ca",
+          "quantity": 80,
+          "unit": "g",
+          "name": "Feta"
+        },
+        {
+          "id": "r33d476bcba82",
+          "mercurialeId": "rbe7ed9af22f2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Concombre"
+        },
+        {
+          "id": "r84cbc88e8b0b",
+          "mercurialeId": "r63b15b6eb2ea",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Aneth frais"
+        },
+        {
+          "id": "re6dfd2411a09",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Écrasez la feta avec les jaunes d'œufs.\n2. Ajoutez les dés de concombre, l'aneth ciselé et un peu de poivre.\n3. Mélangez délicatement pour garder une texture fraîche.\n4. Garnissez les blancs d'œufs et réservez au frais.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    },
+    {
+      "id": "ra81d3d8aa125",
+      "createdAt": "2026-08-05T19:45:08.845772Z",
+      "updatedAt": "2026-08-05T19:45:08.845772Z",
+      "title": "Œufs farcis chocolat",
+      "category": "Dessert",
+      "ingredients": [
+        {
+          "id": "rb45094ae16f2",
+          "mercurialeId": "r3081d7f911a8",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Demi-œufs en chocolat blanc"
+        },
+        {
+          "id": "ra7574a3299b9",
+          "mercurialeId": "r784267f60ae7",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Mousse au chocolat (préparation)"
+        },
+        {
+          "id": "r40b9c1e8edae",
+          "mercurialeId": "r51f3d7837907",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Copeaux de chocolat"
+        },
+        {
+          "id": "r19cdf6d44ce8",
+          "mercurialeId": "r68e43b544f8b",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Crème fouettée"
+        },
+        {
+          "id": "r8106edd9cbaf",
+          "mercurialeId": "rb3c5dfa37310",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Cacao"
+        }
+      ],
+      "steps": "1. Garnissez les demi-œufs en chocolat blanc avec la mousse au chocolat.\n2. Ajoutez une touche de crème fouettée.\n3. Parsemez de copeaux de chocolat et d'un peu de cacao.\n4. Placez au frais avant de servir.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "16 recettes d'œufs farcis pour apéritifs gourmands",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "notes": ""
+    }
+  ],
+  "categories": [
+    "Entrée",
+    "Plat",
+    "Dessert",
+    "Boisson",
+    "Autre",
+    "Apéritif"
+  ],
+  "variantTags": [
+    "Végétarien",
+    "Végane",
+    "Sans gluten",
+    "Sans lactose"
+  ],
+  "mercuriale": [
+    {
+      "id": "r52875f8039b3",
+      "name": "Œufs durs",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rf624ab71d98b",
+      "name": "Thon égoutté (boîte)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r796ee605cac1",
+      "name": "Mayonnaise",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rd78c49added1",
+      "name": "Jus de citron",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r813d172dd90d",
+      "name": "Persil frais",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r3d6db2904dbe",
+      "name": "Saumon fumé",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rfb5abd01d8b2",
+      "name": "Fromage frais",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r63b15b6eb2ea",
+      "name": "Aneth frais",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rfe734ef1f135",
+      "name": "Avocat",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rd7440ce8caba",
+      "name": "Sel",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "ree8f80577849",
+      "name": "Poivre",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r247229f74e7a",
+      "name": "Crevettes cuites décortiquées",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rddc30b2ac29a",
+      "name": "Ciboulette",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "ra227d74e55db",
+      "name": "Ail",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r8f248520efa4",
+      "name": "Fines herbes",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r438c456bb80a",
+      "name": "Poulet cuit",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "re66c63dc23c4",
+      "name": "Curry (épice)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r5474e933ce92",
+      "name": "Betterave cuite",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "reb4b3f2fcd89",
+      "name": "Jambon",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rea55ed44aa0c",
+      "name": "Sardines égouttées (boîte)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "re98cee6f9767",
+      "name": "Piment doux",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r7c9649837caa",
+      "name": "Fromage bleu",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rb6985a597aae",
+      "name": "Crème fraîche",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rbcece27bae22",
+      "name": "Noix concassées",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r45d3ecd9c3ea",
+      "name": "Tomate",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r8db755e9d811",
+      "name": "Basilic frais",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r3bf2b152ddac",
+      "name": "Carotte râpée",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r14e77102540f",
+      "name": "Cumin",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "re324e918daaf",
+      "name": "Champignons",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r21709c3d973a",
+      "name": "Poivron rouge grillé",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r5cca86491ca2",
+      "name": "Paprika",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rb33c2ecf48ca",
+      "name": "Feta",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rbe7ed9af22f2",
+      "name": "Concombre",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r3081d7f911a8",
+      "name": "Demi-œufs en chocolat blanc",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r784267f60ae7",
+      "name": "Mousse au chocolat (préparation)",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r51f3d7837907",
+      "name": "Copeaux de chocolat",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r68e43b544f8b",
+      "name": "Crème fouettée",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rb3c5dfa37310",
+      "name": "Cacao",
+      "unitType": "piece",
+      "prices": []
+    }
+  ],
+  "priceStrategy": "moyenne"
+}
