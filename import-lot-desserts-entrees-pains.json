@@ -1,0 +1,5996 @@
+{
+  "app": "Les Secrets de Misha",
+  "version": "import",
+  "exportedAt": "2026-08-05T21:23:25.619419+00:00",
+  "recipes": [
+    {
+      "id": "rc8197a9740c7",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Bonbons à la menthe fraîche",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rb997c195b721",
+          "mercurialeId": null,
+          "quantity": 50,
+          "unit": "g",
+          "name": "Feuilles de menthe fraîche"
+        },
+        {
+          "id": "rc09d4395a7c5",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r399779994928",
+          "mercurialeId": null,
+          "quantity": 50,
+          "unit": "ml",
+          "name": "Eau"
+        }
+      ],
+      "steps": "1. Mixer les feuilles de menthe avec un peu d'eau jusqu'à obtenir une purée lisse.\n2. Faire fondre le sucre avec l'eau dans une casserole, porter à ébullition 2 minutes.\n3. Retirer du feu, incorporer la purée de menthe, bien mélanger.\n4. Verser dans des moules à bonbons en silicone, laisser refroidir à température ambiante.\n5. Placer au réfrigérateur environ 2 heures jusqu'à ce que les bonbons soient bien durs.\n6. Démouler délicatement et conserver dans une boîte hermétique.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "rc079f43b3d01",
+          "mode": "Repos au frigo",
+          "duration": 120
+        }
+      ],
+      "servings": 20,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "confiserie"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Environ 20 bonbons."
+    },
+    {
+      "id": "r7c34482fb728",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Cookies façon brownie",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r3ed6c962271e",
+          "mercurialeId": "rd74aaf6bd645",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Chocolat noir"
+        },
+        {
+          "id": "rb2bc0528a666",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "r4ceabb7e0d9b",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "rf1a389b1ec39",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r645f2d0e7b26",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "re27d2d4f926b",
+          "mercurialeId": null,
+          "quantity": 0.5,
+          "unit": "pièce",
+          "name": "Levure chimique"
+        },
+        {
+          "id": "r21706d33aa95",
+          "mercurialeId": "rd74aaf6bd645",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Chocolat noir"
+        }
+      ],
+      "steps": "1. Faire fondre le chocolat noir et le beurre au bain-marie ou au micro-ondes.\n2. Battre les œufs avec le sucre jusqu'à blanchiment, ajouter le mélange chocolaté fondu.\n3. Incorporer la farine et la levure, puis les pépites de chocolat.\n4. Préchauffer le four à 180°C, déposer des cuillerées de pâte espacées sur une plaque.\n5. Cuire 10 à 12 minutes : les bords doivent être cuits, le centre encore fondant.\n6. Laisser refroidir sur la plaque puis sur une grille.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "rbab3d46d6ac9",
+          "mode": "Four 180°C",
+          "duration": 11
+        }
+      ],
+      "servings": 12,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "chocolat",
+        "goûter"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r67b80ff55159",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Croustillants de nougatine aux chocolats",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rd8536c2ff739",
+          "mercurialeId": null,
+          "quantity": 30,
+          "unit": "ml",
+          "name": "Eau"
+        },
+        {
+          "id": "rcdb4a8da12ae",
+          "mercurialeId": null,
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "ra9077581eaf2",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "re22912851fab",
+          "mercurialeId": "red151e903cae",
+          "quantity": 30,
+          "unit": "g",
+          "name": "Glucose"
+        },
+        {
+          "id": "r98c6c994ea13",
+          "mercurialeId": "r643c7322264d",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Amandes (effilées/entières)"
+        },
+        {
+          "id": "rfea0b2d2c51d",
+          "mercurialeId": null,
+          "quantity": 200,
+          "unit": "g",
+          "name": "Pralinoise"
+        },
+        {
+          "id": "r06c4ae3611a4",
+          "mercurialeId": "rd74aaf6bd645",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Chocolat noir"
+        },
+        {
+          "id": "rc3227f81c639",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Amandes ou noisettes entières grillées"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 190°C. Poser des moules en silicone sur une plaque.\n2. Concasser les amandes effilées au couteau.\n3. Verser eau et citron dans une casserole, ajouter sucre et glucose mélangés. Porter à ébullition en gardant le mélange bien blanc.\n4. Ajouter les amandes concassées, retirer du feu et mélanger.\n5. Répartir dans les moules à la petite cuillère.\n6. Cuire environ 15 minutes jusqu'à une couleur caramel clair, puis laisser refroidir.\n7. Poser une amande ou noisette grillée au centre de chaque moule.\n8. Faire fondre au bain-marie la pralinoise et le chocolat, verser dans les moules.\n9. Démouler après complet refroidissement.",
+      "difficulty": "Moyen",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r19a3d45ad658",
+          "mode": "Four 190°C (nougatine)",
+          "duration": 15
+        }
+      ],
+      "servings": 48,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "confiserie",
+        "chocolat"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Pour 48 petits croustillants."
+    },
+    {
+      "id": "r9400a8be7603",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Flan pâtissier",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r0e368c08044a",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 1000,
+          "unit": "ml",
+          "name": "Lait entier"
+        },
+        {
+          "id": "r25554c926466",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 200,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r25032212622e",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 4,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "rd4b6c40c090f",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "rbb7e6b871ddf",
+          "mercurialeId": null,
+          "quantity": 100,
+          "unit": "g",
+          "name": "Maïzena"
+        },
+        {
+          "id": "rb7e6f48db50c",
+          "mercurialeId": "r1dc622f97660",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Vanille (gousse ou extrait)"
+        },
+        {
+          "id": "rd5ac5ea88dd6",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 250,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "r430e1ed6e492",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 125,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "rd373f337ec44",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r6d1ce11da542",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "rd72406ec571a",
+          "mercurialeId": null,
+          "quantity": 55,
+          "unit": "ml",
+          "name": "Eau froide"
+        }
+      ],
+      "steps": "1. Préparer la pâte : mélanger farine, beurre froid en morceaux et sel jusqu'à texture sableuse.\n2. Ajouter le jaune d'œuf et l'eau froide, pétrir rapidement, réserver au frais 30 minutes.\n3. Faire chauffer le lait et la crème avec la gousse de vanille fendue, porter à ébullition puis laisser infuser.\n4. Battre les œufs avec le sucre et la maïzena jusqu'à mélange homogène.\n5. Retirer la gousse de vanille, verser le lait chaud sur le mélange d'œufs en remuant.\n6. Préchauffer le four à 180°C, foncer un moule avec la pâte, piquer le fond.\n7. Verser la préparation sur la pâte, enfourner environ 45 minutes.\n8. Laisser refroidir puis réfrigérer au moins 2 heures avant de servir.",
+      "difficulty": "Moyen",
+      "prepTime": 30,
+      "cookingSteps": [
+        {
+          "id": "rdc143b7bf1db",
+          "mode": "Four 180°C",
+          "duration": 45
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "classique"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "rf110c7309c06",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Gâteau à la banane et flocons d'avoine",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "ra4dd5738d67a",
+          "mercurialeId": "r448112f0ffaa",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Banane"
+        },
+        {
+          "id": "rb994cb7d61a8",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "r605e8a44081c",
+          "mercurialeId": "r71b18d43be67",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Flocons d'avoine"
+        },
+        {
+          "id": "r5d7414ca646e",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Levure chimique"
+        },
+        {
+          "id": "r165d2a57e004",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Extrait de vanille"
+        }
+      ],
+      "steps": "1. Écraser les bananes en purée lisse à la fourchette.\n2. Ajouter les œufs, les flocons d'avoine, la levure et la vanille, mélanger jusqu'à pâte homogène.\n3. Préchauffer le four à 180°C, verser dans un moule graissé.\n4. Enfourner environ 20 minutes, jusqu'à ce qu'un couteau ressorte propre.\n5. Laisser refroidir avant de démouler, servir tiède ou froid.",
+      "difficulty": "Facile",
+      "prepTime": 5,
+      "cookingSteps": [
+        {
+          "id": "rcf3833f6dc29",
+          "mode": "Four 180°C",
+          "duration": 20
+        }
+      ],
+      "servings": 7,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "rapide",
+        "diététique"
+      ],
+      "variants": [
+        "Végétarien"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "rbf4c06bd371a",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta lait et crème d'amande",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r73b83735d8d2",
+          "mercurialeId": null,
+          "quantity": 500,
+          "unit": "ml",
+          "name": "Lait d'amande"
+        },
+        {
+          "id": "rb908c6269ab6",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r52f80539654d",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "recb1b2e3912d",
+          "mercurialeId": null,
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Purée d'amande blanche"
+        },
+        {
+          "id": "r87f805ea3e26",
+          "mercurialeId": "r1dc622f97660",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Vanille (gousse ou extrait)"
+        },
+        {
+          "id": "r0a1839933cd2",
+          "mercurialeId": null,
+          "quantity": 200,
+          "unit": "g",
+          "name": "Framboises ou mangue"
+        },
+        {
+          "id": "r1ec01a4cae00",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Noisettes ou pistaches torréfiées"
+        }
+      ],
+      "steps": "1. La veille, chauffer le lait d'amande et la purée d'amande, ajouter la vanille, porter à ébullition puis laisser infuser toute la nuit couvert.\n2. Le lendemain, ramollir la gélatine 10 minutes dans l'eau froide.\n3. Réchauffer le mélange sans bouillir, retirer la vanille, ajouter la gélatine essorée puis le sucre.\n4. Répartir dans les verrines, réfrigérer au moins 4 heures.\n5. Mixer les fruits avec un peu de sucre et d'eau, passer au tamis pour le coulis.\n6. Servir avec le coulis et des fruits à coque concassés.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "rbac5cf64f89c",
+          "mode": "Infusion (veille)",
+          "duration": 720
+        },
+        {
+          "id": "reb63d6dbadbb",
+          "mode": "Réfrigération",
+          "duration": 240
+        }
+      ],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta",
+        "dessert"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Coût ingrédients haut de gamme (lait d'amande, purée d'amande)."
+    },
+    {
+      "id": "r4fa94c52b515",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta au matcha",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rf443a2c0fd92",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 500,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r4c8e3a291f10",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r7d9dd13d0d09",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "r938f4dd926a9",
+          "mercurialeId": "r36c21576912e",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Poudre de matcha"
+        },
+        {
+          "id": "r48ffe4681c5b",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Extrait de vanille"
+        },
+        {
+          "id": "r34c372ceceac",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "rcec289589e7f",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fruits rouges et pistaches pour le topping"
+        }
+      ],
+      "steps": "1. Faire tremper la gélatine 10 minutes dans l'eau froide.\n2. Chauffer la crème, le sucre, la vanille et le sel jusqu'au frémissement.\n3. Retirer du feu, incorporer la gélatine essorée en remuant jusqu'à dissolution.\n4. Délayer le matcha avec un peu d'eau chaude, l'incorporer au mélange et bien fouetter.\n5. Verser dans des verrines, réfrigérer au moins 4 heures, idéalement toute une nuit.\n6. Garnir de fruits rouges, pistaches ou coulis au moment de servir.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "rc1bd95f68ee5",
+          "mode": "Réfrigération",
+          "duration": 240
+        }
+      ],
+      "servings": 10,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta",
+        "dessert"
+      ],
+      "variants": [
+        "Sans gluten"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r6b98fb655625",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Bavarois fruits rouges",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r4df658040927",
+          "mercurialeId": null,
+          "quantity": 210,
+          "unit": "g",
+          "name": "Biscuits émiettés"
+        },
+        {
+          "id": "rfdb911eedcde",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 20,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "r82517c9e3d57",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 3.5,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "rd24b33295283",
+          "mercurialeId": null,
+          "quantity": 250,
+          "unit": "g",
+          "name": "Coulis de fruits rouges"
+        },
+        {
+          "id": "r84b4d4b4acfa",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 110,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r8137468d4597",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 500,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        }
+      ],
+      "steps": "1. Mélanger les biscuits émiettés avec le beurre fondu, tasser au fond des pots pour former la base.\n2. Faire ramollir la gélatine dans l'eau froide.\n3. Chauffer le coulis avec le sucre, incorporer hors du feu la gélatine essorée, laisser tiédir.\n4. Monter la crème liquide en chantilly, verser le coulis en filet en mélangeant délicatement à la spatule.\n5. Verser sur le biscuit, réfrigérer au moins 2 heures.\n6. Napper d'un peu de coulis avant de servir.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r52b022feb9f9",
+          "mode": "Réfrigération",
+          "duration": 120
+        }
+      ],
+      "servings": 10,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "fruits rouges"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "rfe6461c1fc40",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Cheesecake sans cuisson",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r5e8f1d336cac",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 30,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "r7af1f1b442f9",
+          "mercurialeId": null,
+          "quantity": 300,
+          "unit": "g",
+          "name": "Biscuits Digestive ou Palet Breton émiettés"
+        },
+        {
+          "id": "r5b94793df13e",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 500,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "rb05e27a04817",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": 700,
+          "unit": "g",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "r8b26835eefda",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "red1945f6fa1e",
+          "mercurialeId": null,
+          "quantity": 20,
+          "unit": "ml",
+          "name": "Eau (sirop)"
+        },
+        {
+          "id": "rec06d04d0f0c",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "r6863b8ddf4f8",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        }
+      ],
+      "steps": "1. Mélanger les biscuits émiettés avec le beurre fondu, tasser au fond du moule, réserver au congélateur.\n2. Battre la crème liquide bien froide en chantilly ferme, réserver.\n3. Battre le fromage frais avec le sucre, la gélatine et le jus de citron pendant 2 minutes jusqu'à texture lisse.\n4. Incorporer délicatement la chantilly au mélange de fromage frais à la maryse.\n5. Verser sur la base biscuitée, lisser le dessus.\n6. Couvrir et laisser reposer 6 heures ou toute une nuit au réfrigérateur.\n7. Servir avec un coulis de fruits.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r5c6622970120",
+          "mode": "Repos au frigo",
+          "duration": 360
+        }
+      ],
+      "servings": 12,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "sans cuisson"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r703c1160198a",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Crumble sucré & salé (base)",
+      "categories": [
+        "Dessert",
+        "Accompagnement"
+      ],
+      "ingredients": [
+        {
+          "id": "rd84c893bf1ae",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 300,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "r48dd7d37547b",
+          "mercurialeId": "rc45c47e6ee86",
+          "quantity": 195,
+          "unit": "g",
+          "name": "Beurre demi-sel"
+        },
+        {
+          "id": "rc1ce60d98cae",
+          "mercurialeId": "r1da2674da05f",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Sucre roux / vergeoise"
+        }
+      ],
+      "steps": "1. Sucré : mélanger farine, beurre demi-sel et sucre roux du bout des doigts pour obtenir une texture de grosses miettes.\n2. Cuire 20 minutes à 180°C.\n3. Version salée : remplacer le sucre par 100g de parmesan (même méthode, mêmes proportions farine/beurre).",
+      "difficulty": "Facile",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "r7c0bccaecf0c",
+          "mode": "Four 180°C",
+          "duration": 20
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "base",
+        "crumble"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Version salée : 200g farine, 100g beurre, 100g parmesan à la place du sucre."
+    },
+    {
+      "id": "r98b28ae766c4",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Douceur de coco nacrée au chia et éclats de fruits",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r3b9b8aa7a603",
+          "mercurialeId": null,
+          "quantity": 400,
+          "unit": "ml",
+          "name": "Lait de coco"
+        },
+        {
+          "id": "rc1b35d73fc1e",
+          "mercurialeId": null,
+          "quantity": 400,
+          "unit": "ml",
+          "name": "Crème de coco"
+        },
+        {
+          "id": "rcba8a23f9145",
+          "mercurialeId": null,
+          "quantity": 4,
+          "unit": "pièce",
+          "name": "Graines de chia"
+        },
+        {
+          "id": "r6a6ff94afedf",
+          "mercurialeId": "r1da2674da05f",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Sucre roux / vergeoise"
+        },
+        {
+          "id": "rbe05610c766f",
+          "mercurialeId": "r1dc622f97660",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Vanille (gousse ou extrait)"
+        },
+        {
+          "id": "r7cd4243b002f",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Gelée ou purée de fruits"
+        },
+        {
+          "id": "r697cd2c7ed82",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fruits frais en morceaux"
+        },
+        {
+          "id": "r9198ce75e9cf",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Graines de sésame ou de lin"
+        }
+      ],
+      "steps": "1. La veille, mélanger au fouet lait de coco, crème de coco, graines de chia, vanille et sucre.\n2. Réserver au frais entre 10 et 12 heures (une nuit).\n3. Dresser les verrines : une pincée de graines au fond, un peu de gelée de fruit, le mélange coco préparé.\n4. Ajouter des morceaux de fruits frais, parsemer de graines.\n5. Décorer d'une feuille de menthe ou de pétales de fleurs, remettre au frais.\n6. Se conserve 2 à 3 jours au réfrigérateur.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r13f74fa76c2f",
+          "mode": "Repos (nuit)",
+          "duration": 660
+        }
+      ],
+      "servings": 20,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "végétal",
+        "verrine"
+      ],
+      "variants": [
+        "Végane",
+        "Sans gluten"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r04d7c8b91e38",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Invisible aux pommes",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rb54cc1fd2bed",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 70,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "rd71580647795",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "r553d5a9d6f8c",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 100,
+          "unit": "ml",
+          "name": "Lait entier"
+        },
+        {
+          "id": "rb7e1a0ee2686",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Levure chimique"
+        },
+        {
+          "id": "rbfe7cc10a38b",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "rb191d2d4f0df",
+          "mercurialeId": "rbd256a8b484a",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sucre vanillé (sachet)"
+        },
+        {
+          "id": "r3fee73ccd2d6",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Arôme de vanille liquide"
+        },
+        {
+          "id": "r8a0eb8b04d6c",
+          "mercurialeId": "r189e787ab477",
+          "quantity": 9,
+          "unit": "pièce",
+          "name": "Pomme"
+        },
+        {
+          "id": "raaa200dcc8ef",
+          "mercurialeId": "r643c7322264d",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Amandes (effilées/entières)"
+        }
+      ],
+      "steps": "1. Éplucher et émincer finement les pommes, réserver.\n2. Mélanger œufs, lait, farine, sucres, levure et arôme de vanille pour obtenir l'appareil à invisible.\n3. Incorporer les pommes émincées, bien enrober chaque tranche.\n4. Verser dans un moule allant au four.\n5. Enfourner 40 à 45 minutes à 200°C.\n6. Laisser refroidir — encore meilleur le lendemain.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r05d84bc63060",
+          "mode": "Four 200°C",
+          "duration": 42
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "Recette personnelle (photo du plat)",
+      "tags": [
+        "pommes"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r5f593a424689",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Moelleux au chocolat",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r46d9ed6c3f14",
+          "mercurialeId": "rd74aaf6bd645",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Chocolat noir"
+        },
+        {
+          "id": "r437529578798",
+          "mercurialeId": "rc45c47e6ee86",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Beurre demi-sel"
+        },
+        {
+          "id": "ra4103287e93a",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "rd6e6dd0a2f65",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r4c7a79eebcc5",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 5,
+          "unit": "pièce",
+          "name": "Œufs"
+        }
+      ],
+      "steps": "1. Faire fondre le beurre puis le chocolat au bain-marie.\n2. Ajouter le sucre une fois le beurre et le chocolat fondus.\n3. Incorporer les œufs un à un en mélangeant bien à chaque fois.\n4. Verser dans un moule assez grand et peu haut (moule à manqué ou à gratin).\n5. Cuire à 150°C pendant 25 minutes, ou en muffins (9 muffins) à 165°C pendant 14 minutes.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "rf39777ce63ae",
+          "mode": "Four 150°C",
+          "duration": 25
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "chocolat"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r20ad140c30f5",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Nougat",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r5494c2ff797e",
+          "mercurialeId": null,
+          "quantity": 50,
+          "unit": "g",
+          "name": "Blancs d'œuf"
+        },
+        {
+          "id": "ra2657f1b124d",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 25,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r979cd7172344",
+          "mercurialeId": null,
+          "quantity": 100,
+          "unit": "g",
+          "name": "Miel"
+        },
+        {
+          "id": "r0df226df4358",
+          "mercurialeId": "red151e903cae",
+          "quantity": 125,
+          "unit": "g",
+          "name": "Glucose"
+        },
+        {
+          "id": "r9727894e1440",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 375,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "raf523c77080a",
+          "mercurialeId": null,
+          "quantity": 125,
+          "unit": "g",
+          "name": "Eau"
+        },
+        {
+          "id": "re1613a587adf",
+          "mercurialeId": "r33b6f58f8a8d",
+          "quantity": 165,
+          "unit": "g",
+          "name": "Noisettes"
+        },
+        {
+          "id": "r2a6fb299b3c6",
+          "mercurialeId": "r643c7322264d",
+          "quantity": 165,
+          "unit": "g",
+          "name": "Amandes (effilées/entières)"
+        },
+        {
+          "id": "r16645c8c0edc",
+          "mercurialeId": "r8bc814a1dc63",
+          "quantity": 25,
+          "unit": "g",
+          "name": "Pistaches"
+        }
+      ],
+      "steps": "1. Cuire le miel, le glucose, le sucre et l'eau à 137°C.\n2. À 130°C, monter les blancs d'œuf avec le sucre en neige ferme.\n3. Verser le sirop chaud sur les blancs montés en filet, en fouettant.\n4. Dessécher 2 minutes au chalumeau (ou à feu très doux).\n5. Incorporer la garniture (noisettes, amandes, pistaches grillées) chaude et cadrer.",
+      "difficulty": "Difficile",
+      "prepTime": 30,
+      "cookingSteps": [
+        {
+          "id": "r5b8130f7795d",
+          "mode": "Cuisson du sirop",
+          "duration": 20
+        }
+      ],
+      "servings": 20,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "Recette manuscrite (image)",
+      "tags": [
+        "confiserie"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r480291be8b08",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta crémeuse vanille et coulis de fruits rouges",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rd64bca268050",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 400,
+          "unit": "g",
+          "name": "Lait entier"
+        },
+        {
+          "id": "r9559f4d29ef4",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 350,
+          "unit": "g",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r9b764469d706",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "rde5ba5cf94c9",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "rb42d7b412649",
+          "mercurialeId": "r1dc622f97660",
+          "quantity": 0.5,
+          "unit": "pièce",
+          "name": "Vanille (gousse ou extrait)"
+        },
+        {
+          "id": "rc01851a472d2",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Purée de fruits rouges"
+        }
+      ],
+      "steps": "1. Idéalement, faire infuser la vanille dans le lait et la crème 24h à l'avance.\n2. Réhydrater la gélatine dans l'eau froide.\n3. Chauffer un tiers du mélange lait/crème avec le sucre à feu doux jusqu'à dissolution complète.\n4. Vers 60°C, retirer du feu et incorporer la gélatine essorée, mélanger jusqu'à dissolution.\n5. Verser ce liquide chaud dans le reste du mélange froid, mélanger doucement.\n6. Répartir dans les verrines, réfrigérer au moins 2-3 heures, idéalement une nuit.\n7. Napper de coulis de fruits rouges au moment de servir.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r5113dd0c0c57",
+          "mode": "Réfrigération",
+          "duration": 180
+        }
+      ],
+      "servings": 6,
+      "tested": true,
+      "rating": 5,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta",
+        "classique"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "4,75/5 sur 12 évaluations (recette de référence)."
+    },
+    {
+      "id": "rad0cd36c1d20",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Pâtes de fruits",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "ra8cbca64ef57",
+          "mercurialeId": "ra9fc58b806e0",
+          "quantity": 500,
+          "unit": "g",
+          "name": "Purée de fruits"
+        },
+        {
+          "id": "r087f74940121",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r3100fcbfd1ce",
+          "mercurialeId": "r8cbf60743ee4",
+          "quantity": 8,
+          "unit": "g",
+          "name": "Pectine jaune"
+        },
+        {
+          "id": "r6708c9f1981b",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 485,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r2fa86a34108c",
+          "mercurialeId": "red151e903cae",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Glucose"
+        },
+        {
+          "id": "r2aca1af997f4",
+          "mercurialeId": "re6d2d227e511",
+          "quantity": 15,
+          "unit": "g",
+          "name": "Acide citrique"
+        }
+      ],
+      "steps": "1. Chauffer la purée de fruits à 40°C.\n2. Ajouter le sucre mélangé à la pectine.\n3. Porter à ébullition puis ajouter le sucre restant et le glucose.\n4. Cuire à 105°C (ajuster selon les fruits).\n5. Ajouter la solution acide (moitié eau, moitié acide citrique) et refaire bouillir.\n6. Couler immédiatement en cadre.\n7. Découper en morceaux une fois pris et enrober de sucre semoule.",
+      "difficulty": "Difficile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "rdbc658f01c07",
+          "mode": "Cuisson",
+          "duration": 20
+        }
+      ],
+      "servings": 20,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "confiserie"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "rbe6f2dd7d2ea",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Clafoutis",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r88dc2c97428f",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fruits (cerises, poires, fruits rouges)"
+        },
+        {
+          "id": "r1959bceb7155",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 120,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "rd8113a57b84d",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 4,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "r848d7aa268d3",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 45,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "r8d0a756fbd5e",
+          "mercurialeId": "rc16ead0ff526",
+          "quantity": 400,
+          "unit": "g",
+          "name": "Mascarpone"
+        }
+      ],
+      "steps": "1. Tapisser le fond du moule de fruits.\n2. Mélanger le sucre et les œufs pour obtenir un mélange mousseux.\n3. Ajouter la farine puis le mascarpone.\n4. Verser sur les fruits.\n5. Cuire à 180°C pendant 40 minutes.\n6. Bien laisser refroidir, réchauffer légèrement pour servir si besoin.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r6a4cf02556ea",
+          "mode": "Four 180°C",
+          "duration": 40
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "fruits"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "La quantité d'œufs indiquée dans la source (« 4g ») semble être une coquille pour 4 œufs entiers — corrigé ici."
+    },
+    {
+      "id": "rc589ceb32f4c",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Cookies",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rdb979395dba3",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 220,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "r8e4a8525912e",
+          "mercurialeId": "r1da2674da05f",
+          "quantity": 120,
+          "unit": "g",
+          "name": "Sucre roux / vergeoise"
+        },
+        {
+          "id": "r95dccbaeaf7f",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 120,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "re6fb347dfee9",
+          "mercurialeId": "rbd256a8b484a",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Sucre vanillé (sachet)"
+        },
+        {
+          "id": "rcc3ee41f7f39",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "r36710f6a0071",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 450,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "r388b18ed40d2",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sachet de levure"
+        },
+        {
+          "id": "r373913a6369d",
+          "mercurialeId": "rd74aaf6bd645",
+          "quantity": 300,
+          "unit": "g",
+          "name": "Chocolat noir"
+        }
+      ],
+      "steps": "1. Mélanger le beurre mou, le sucre, la vanille et les œufs.\n2. Ajouter la farine tamisée et la levure, puis au dernier moment le chocolat.\n3. Mettre la pâte au frais.\n4. Former des boules à l'aide d'une cuillère à glace.\n5. Cuire à 190°C pendant 14 minutes.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "rdfbe5754c424",
+          "mode": "Four 190°C",
+          "duration": 14
+        }
+      ],
+      "servings": 16,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "chocolat",
+        "goûter"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Pour 8 cookies : diviser toutes les quantités par deux."
+    },
+    {
+      "id": "r8104da9d3ef4",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Caramel beurre salé",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rac996616b6af",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r10fb2f014fb2",
+          "mercurialeId": null,
+          "quantity": 30,
+          "unit": "g",
+          "name": "Eau"
+        },
+        {
+          "id": "r9be69da204d1",
+          "mercurialeId": "rc45c47e6ee86",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Beurre demi-sel"
+        },
+        {
+          "id": "r7b190b4a328d",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fleur de sel"
+        },
+        {
+          "id": "r1c6086879b9e",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 200,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        }
+      ],
+      "steps": "1. Faire un caramel à sec avec le sucre et l'eau.\n2. Une fois le caramel à la couleur voulue, incorporer petit à petit la crème liquide chaude puis le beurre.",
+      "difficulty": "Moyen",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "r4727d5be630d",
+          "mode": "Cuisson du caramel",
+          "duration": 10
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "base",
+        "sauce"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "300 ml de crème pour un caramel plus liquide."
+    },
+    {
+      "id": "rdfc20bbd048b",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Amandine aux poires",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "re81dd7ef304c",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 70,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "rddbbf4866aa3",
+          "mercurialeId": "r657fcc87f688",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Sucre glace"
+        },
+        {
+          "id": "rc277371369d0",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "rda9078070755",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 15,
+          "unit": "g",
+          "name": "Œufs"
+        },
+        {
+          "id": "r361139d29715",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 160,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "rce9836502137",
+          "mercurialeId": "rca6546dca850",
+          "quantity": 125,
+          "unit": "g",
+          "name": "Poudre d'amandes"
+        },
+        {
+          "id": "r378f2ccd06d6",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 125,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "rca12013038e8",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 125,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r2747d6064a44",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 125,
+          "unit": "g",
+          "name": "Œufs"
+        },
+        {
+          "id": "r44db03488c21",
+          "mercurialeId": "r9c3e728526c0",
+          "quantity": 5,
+          "unit": "pièce",
+          "name": "Poire"
+        }
+      ],
+      "steps": "1. Pâte sucrée : mélanger le beurre, le sucre glace et le sel, ajouter les œufs puis la farine tamisée.\n2. Crème d'amande : mélanger le beurre pommade et le sucre jusqu'à blanchiment, ajouter alternativement poudre d'amande et œuf.\n3. Étaler la pâte dans le cercle ou le moule.\n4. Garnir de crème d'amande, déposer les moitiés de poires par-dessus.\n5. Cuire à 180°C pendant 30 à 40 minutes.",
+      "difficulty": "Moyen",
+      "prepTime": 30,
+      "cookingSteps": [
+        {
+          "id": "r5d1e5d8a71bc",
+          "mode": "Four 180°C",
+          "duration": 35
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "poires",
+        "tarte"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Environ 5 poires pour un cercle de 22-24cm."
+    },
+    {
+      "id": "rf4576ae61dfd",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Crème brûlée",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r175a9ed34fb5",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 1000,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r706041098ac7",
+          "mercurialeId": null,
+          "quantity": 200,
+          "unit": "g",
+          "name": "Jaunes d'œuf"
+        },
+        {
+          "id": "re339211df65b",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r7469f26065b2",
+          "mercurialeId": "rbd256a8b484a",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Sucre vanillé (sachet)"
+        }
+      ],
+      "steps": "1. Battre les jaunes et le sucre pour obtenir un mélange mousseux.\n2. Ajouter la crème et bien mélanger.\n3. Répartir dans les ramequins.\n4. Cuire au bain-marie, au four à 120°C pendant 1 heure.",
+      "difficulty": "Moyen",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r317935328e98",
+          "mode": "Four 120°C bain-marie",
+          "duration": 60
+        }
+      ],
+      "servings": 10,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "classique"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "10 crèmes brûlées, ou 10 petites portions format « gourmand »."
+    },
+    {
+      "id": "r49d2e20a0ffb",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Dundee cake",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r90567046b744",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 250,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "rcd1a209dd8f7",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 125,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r4f697e999784",
+          "mercurialeId": null,
+          "quantity": 0.5,
+          "unit": "pièce",
+          "name": "Levure chimique"
+        },
+        {
+          "id": "r1907690399cf",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Cannelle en poudre"
+        },
+        {
+          "id": "r617787a20002",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Gingembre en poudre"
+        },
+        {
+          "id": "r0c98d16cbb2f",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Coriandre en poudre"
+        },
+        {
+          "id": "rb4317b1f1cd3",
+          "mercurialeId": "rc45c47e6ee86",
+          "quantity": 125,
+          "unit": "g",
+          "name": "Beurre demi-sel"
+        },
+        {
+          "id": "r48fcbe0e2b9d",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 4,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "r0f1aebf3c673",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 30,
+          "unit": "ml",
+          "name": "Lait entier"
+        },
+        {
+          "id": "r845251d88718",
+          "mercurialeId": "rb813bfda0252",
+          "quantity": 500,
+          "unit": "g",
+          "name": "Raisins secs"
+        },
+        {
+          "id": "r0fdd5bc96162",
+          "mercurialeId": "rd9d8f18e172a",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Écorces d'agrumes confites"
+        },
+        {
+          "id": "rdfc31ae71e9f",
+          "mercurialeId": "r643c7322264d",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Amandes (effilées/entières)"
+        }
+      ],
+      "steps": "1. Mélanger les poudres (farine, levure, épices) puis ajouter les autres ingrédients dans l'ordre.\n2. Verser dans un moule à tarte.\n3. Cuire à 145°C pendant 1h15.",
+      "difficulty": "Moyen",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "re0284b0411e0",
+          "mode": "Four 145°C",
+          "duration": 75
+        }
+      ],
+      "servings": 10,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "fruits secs",
+        "cake"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "500g de raisins secs : 250g de noirs et 250g de blonds."
+    },
+    {
+      "id": "r325f839de38c",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta (sucrée) et coulis fruit de la passion",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r970a7649ed56",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 1000,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r9812158fc210",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r586fb927ad4f",
+          "mercurialeId": "rbd256a8b484a",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Sucre vanillé (sachet)"
+        },
+        {
+          "id": "r55c2656dfc41",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 5,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "r81cfa3d38e72",
+          "mercurialeId": null,
+          "quantity": 250,
+          "unit": "ml",
+          "name": "Coulis fruit de la passion"
+        },
+        {
+          "id": "r43f0ca8d2282",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "r3824b103ecd9",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        }
+      ],
+      "steps": "1. Faire tremper la gélatine dans l'eau très froide au moins 10 minutes.\n2. Faire bouillir la crème avec le sucre, puis incorporer énergiquement la gélatine bien essorée.\n3. Verser dans les pots en verre.\n4. Pour le coulis : chauffer légèrement le coulis de fruit de la passion avec la gélatine et le sucre.\n5. Servir la panna cotta avec le coulis.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "rc294c99d0de1",
+          "mode": "Ébullition crème",
+          "duration": 5
+        }
+      ],
+      "servings": 10,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Version lait de coco possible à la place de la crème liquide (1L)."
+    },
+    {
+      "id": "r197736680347",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Crème anglaise",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r002a4bfd8a0e",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 1000,
+          "unit": "ml",
+          "name": "Lait entier"
+        },
+        {
+          "id": "rffdd3d22a161",
+          "mercurialeId": null,
+          "quantity": 160,
+          "unit": "g",
+          "name": "Jaunes d'œuf"
+        },
+        {
+          "id": "r25825840b517",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 70,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r730e7a9930a8",
+          "mercurialeId": "rbd256a8b484a",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Sucre vanillé (sachet)"
+        }
+      ],
+      "steps": "1. Battre les jaunes et le sucre pour obtenir un mélange mousseux.\n2. Ajouter le lait.\n3. Cuire au Thermomix : 20 minutes à 85°C, vitesse 2,5, sans le gobelet (pour 1 litre).",
+      "difficulty": "Moyen",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "r91d7b227f994",
+          "mode": "Cuisson (Thermomix 85°C)",
+          "duration": 20
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "base",
+        "sauce"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Pour ½ litre : 225ml lait, 50g jaunes, 20g sucre + 1 vanillé, cuisson 17 minutes."
+    },
+    {
+      "id": "r0e240ea9fe07",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Palet Breton",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r6c9a28f824eb",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 70,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "r2d8271e5ee1a",
+          "mercurialeId": "rc45c47e6ee86",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Beurre demi-sel"
+        },
+        {
+          "id": "rab5b9b027dc5",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r906ee0f26fe0",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Jaunes d'œuf"
+        },
+        {
+          "id": "r8befcce3db26",
+          "mercurialeId": null,
+          "quantity": 0.25,
+          "unit": "pièce",
+          "name": "Levure"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 180°C.\n2. Blanchir le sucre et les jaunes d'œuf.\n3. Ajouter le beurre, puis la farine mélangée à la levure.\n4. Répartir dans le fond de moules à financiers.\n5. Cuire 14 minutes à 180°C.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r10fe2e33aeb5",
+          "mode": "Four 180°C",
+          "duration": 14
+        }
+      ],
+      "servings": 12,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "breton"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Base « millionnaire » pour 12 palets ; quantités doublées pour un format plus grand."
+    },
+    {
+      "id": "r10d296d00939",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Financiers",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rdce84b606b0a",
+          "mercurialeId": "rca6546dca850",
+          "quantity": 120,
+          "unit": "g",
+          "name": "Poudre d'amandes"
+        },
+        {
+          "id": "r1211b00dceea",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "rb913b3e5af41",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 280,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "rbb05d4a5d184",
+          "mercurialeId": null,
+          "quantity": 150,
+          "unit": "g",
+          "name": "Blancs d'œufs"
+        },
+        {
+          "id": "r2c070aae3a24",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 230,
+          "unit": "g",
+          "name": "Beurre doux"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 180°C.\n2. Mixer les amandes en poudre, la farine et le sucre 10 secondes.\n3. Ajouter les blancs d'œufs, mixer 1 minute puis 3 minutes à 60°C.\n4. Ajouter le beurre en petits morceaux, mixer 40 secondes.\n5. Cuire à 180°C pendant 24 minutes pour les gros formats (2x12min, retourner à mi-cuisson).",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r523e2087fd4d",
+          "mode": "Four 180°C (Thermomix)",
+          "duration": 24
+        }
+      ],
+      "servings": 12,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "amande"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Pour 48 petits financiers : diviser les quantités par deux, cuire 16 minutes."
+    },
+    {
+      "id": "re18f465f31e4",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Lemon curd",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "ra5f87a2c97b7",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 4,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "rf4b46ce8765b",
+          "mercurialeId": null,
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Zeste de citron"
+        },
+        {
+          "id": "r6bbebb7a9542",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "rdc4775500dd5",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "ref373e24b470",
+          "mercurialeId": null,
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Jaunes d'œuf"
+        },
+        {
+          "id": "r6220100e9ac6",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Œufs"
+        }
+      ],
+      "steps": "1. Mélanger le jus de citron, le zeste, le sucre et le beurre dans une casserole.\n2. Faire cuire à feu doux en fouettant fréquemment.\n3. Ajouter les œufs et les jaunes, laisser cuire sans cesser de mélanger jusqu'à épaississement (environ 10 minutes), jusqu'à voir les marques du fouet.\n4. Verser dans un bol, laisser refroidir en mélangeant de temps en temps, couvrir d'un film et réserver au moins 1 heure au frais.",
+      "difficulty": "Moyen",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "rcdaf8535f5df",
+          "mode": "Cuisson à feu doux",
+          "duration": 10
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "citron",
+        "base"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Version Thermomix : 2mn/80°C/vit.2 puis 8mn/80°C/vit.2,5."
+    },
+    {
+      "id": "re434793882cd",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Tarte aux noix",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r243f52d2e173",
+          "mercurialeId": "r1da2674da05f",
+          "quantity": 180,
+          "unit": "g",
+          "name": "Sucre roux / vergeoise"
+        },
+        {
+          "id": "r5891b0ba59e9",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 180,
+          "unit": "g",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r81ad57accd82",
+          "mercurialeId": "r6a0a6cfcfe3e",
+          "quantity": 140,
+          "unit": "g",
+          "name": "Noix"
+        },
+        {
+          "id": "r8ff5b98e2130",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "rba4199c99111",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r7d51ce4727f7",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "r68e82562486e",
+          "mercurialeId": "rc45c47e6ee86",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Beurre demi-sel"
+        },
+        {
+          "id": "r662ff5ca9e76",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Beurre doux"
+        }
+      ],
+      "steps": "1. Faire bouillir le sucre vergeoise et la crème liquide au moins 5 minutes, ajouter les noix.\n2. Blanchir l'œuf et le sucre, incorporer à l'appareil aux noix.\n3. Préparer une pâte sablée avec la farine et le beurre (demi-sel + doux).\n4. Cuire la pâte 10 minutes à 180°C.\n5. Verser l'appareil aux noix sur le fond de tarte précuit et cuire 15 à 18 minutes de plus.",
+      "difficulty": "Moyen",
+      "prepTime": 25,
+      "cookingSteps": [
+        {
+          "id": "rc5aa83b99255",
+          "mode": "Four 180°C (pâte)",
+          "duration": 10
+        },
+        {
+          "id": "r4f4dd412f7da",
+          "mode": "Four 180°C (garniture)",
+          "duration": 16
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "noix",
+        "tarte"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Pour 2 plaques : doubler toutes les quantités."
+    },
+    {
+      "id": "r142cf3cb9e36",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Tarte aux pralines",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r04dd09aac9fa",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Pâte sablée"
+        },
+        {
+          "id": "r9ce456c53321",
+          "mercurialeId": "r4418dbf1a5b5",
+          "quantity": 300,
+          "unit": "g",
+          "name": "Pralines roses concassées"
+        },
+        {
+          "id": "r44bd62362a18",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 300,
+          "unit": "g",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r0cbfc75ee3a6",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Beurre doux"
+        }
+      ],
+      "steps": "1. Cuire le fond de tarte à 180°C pendant 15 minutes.\n2. Mettre les pralines concassées, la crème liquide et le beurre dans une casserole, cuire à 110°C environ 15 minutes.\n3. Verser la préparation dans le fond de tarte, laisser refroidir.\n4. Saupoudrer de sucre glace et servir.",
+      "difficulty": "Moyen",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r15a20bfbbe26",
+          "mode": "Four 180°C (fond)",
+          "duration": 15
+        },
+        {
+          "id": "rb1410d1f54aa",
+          "mode": "Cuisson pralines",
+          "duration": 15
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "pralines",
+        "tarte"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r55dd0938f810",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Tarte Tatin",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rfe0fb0521213",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Pâte brisée"
+        },
+        {
+          "id": "r6239ac7fa0e9",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 300,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r7d75c1567443",
+          "mercurialeId": null,
+          "quantity": 30,
+          "unit": "g",
+          "name": "Eau"
+        },
+        {
+          "id": "r22854b00b189",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "rd16466d2ecf9",
+          "mercurialeId": "r189e787ab477",
+          "quantity": 7,
+          "unit": "pièce",
+          "name": "Pomme"
+        }
+      ],
+      "steps": "1. Préparer une pâte brisée.\n2. Faire un caramel avec le sucre et l'eau, ajouter le beurre puis les pommes coupées en deux, laisser cuire 10 minutes.\n3. Couvrir avec la pâte, enfourner à 180°C pendant 25 minutes.\n4. Servir avec une boule de glace vanille ou de la chantilly.",
+      "difficulty": "Moyen",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "ra8c49020fa68",
+          "mode": "Cuisson pommes/caramel",
+          "duration": 10
+        },
+        {
+          "id": "rb8ce3f4adb37",
+          "mode": "Four 180°C",
+          "duration": 25
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "pommes",
+        "tarte"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r3a11370d5eb4",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Sbriciolata au citron (tarte façon crumble)",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r530ba5ee6915",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Zeste de citron"
+        },
+        {
+          "id": "rd9f63204401a",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 180,
+          "unit": "g",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "r8cfb1bdac086",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r9eea88103d85",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 5,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "r75b3c8cfc76f",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 40,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "r81c69c8a35fa",
+          "mercurialeId": "rca6546dca850",
+          "quantity": 30,
+          "unit": "g",
+          "name": "Poudre d'amandes"
+        },
+        {
+          "id": "r6324ae1f0fc0",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 250,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "r37c2509729b8",
+          "mercurialeId": "rc45c47e6ee86",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Beurre demi-sel"
+        },
+        {
+          "id": "r100d7af9aeda",
+          "mercurialeId": "r1da2674da05f",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Sucre roux / vergeoise"
+        }
+      ],
+      "steps": "1. Lemon curd : dans le bol du Thermomix, mettre zeste, jus de citron, sucre, œufs et beurre. Cuire 9 minutes à 80°C, vitesse 2,5. Réserver au frais.\n2. Sbriciolata : préchauffer le four à 180°C.\n3. Mélanger farine, poudre d'amande, beurre en morceaux, cassonade, un œuf et un peu de jus de citron, pétrir environ 30 secondes pour obtenir une texture de gros crumble.\n4. Tasser 2/3 de la pâte dans un cercle de 20-22cm, faire remonter les bords.\n5. Étaler le lemon curd, émietter le reste de pâte sur le dessus.\n6. Cuire environ 35 minutes. Laisser refroidir avant de démouler, saupoudrer de sucre glace.",
+      "difficulty": "Moyen",
+      "prepTime": 30,
+      "cookingSteps": [
+        {
+          "id": "rf0c832160de4",
+          "mode": "Cuisson lemon curd",
+          "duration": 9
+        },
+        {
+          "id": "r80e1aa595f87",
+          "mode": "Four 180°C",
+          "duration": 35
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "citron",
+        "crumble"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Variante « top de tiramisu au citron » (10 pots) : même lemon curd allégé, dressé en verrines."
+    },
+    {
+      "id": "r1cbca6f793b9",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Boulettes pois chiches - courgettes",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "r6cd9409b552b",
+          "mercurialeId": null,
+          "quantity": 400,
+          "unit": "g",
+          "name": "Pois chiches en boîte (égouttés)"
+        },
+        {
+          "id": "ra5cd924031aa",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Courgette râpée et essorée"
+        },
+        {
+          "id": "re26c407e22dd",
+          "mercurialeId": "r001f18530140",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Oignon"
+        },
+        {
+          "id": "r134d73281de4",
+          "mercurialeId": "ra227d74e55db",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Ail"
+        },
+        {
+          "id": "re9b41f23fa26",
+          "mercurialeId": "rbaeb4d28183d",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Farine de pois chiches"
+        },
+        {
+          "id": "rf8b95d6a02c3",
+          "mercurialeId": "r6624b58fce15",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Chapelure"
+        },
+        {
+          "id": "r6b570fd01320",
+          "mercurialeId": "r14e77102540f",
+          "quantity": 0.5,
+          "unit": "pièce",
+          "name": "Cumin"
+        },
+        {
+          "id": "r1644a210c582",
+          "mercurialeId": null,
+          "quantity": 0.5,
+          "unit": "pièce",
+          "name": "Coriandre moulue"
+        },
+        {
+          "id": "r00c4f285f1de",
+          "mercurialeId": "r5cca86491ca2",
+          "quantity": 0.5,
+          "unit": "pièce",
+          "name": "Paprika"
+        },
+        {
+          "id": "rfaf10104a5ec",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "ra4b706456219",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "rff89e09c938b",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "rfa9e62cd1fe9",
+          "mercurialeId": "r353c426d51d9",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Yaourt nature"
+        },
+        {
+          "id": "rbaa4aa626b77",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 0.5,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "re09c92b35779",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Menthe ciselée"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 200°C.\n2. Égoutter et rincer les pois chiches, les écraser grossièrement.\n3. Râper la courgette et bien l'essorer.\n4. Mélanger pois chiches, courgette, oignon, ail, épices, farine de pois chiches et chapelure. Saler, poivrer.\n5. Former une pâte malléable avec les mains humides, façonner des boulettes.\n6. Déposer sur une plaque avec papier cuisson, badigeonner d'huile d'olive.\n7. Enfourner 25 à 30 minutes, en retournant à mi-cuisson.\n8. Préparer la sauce : mélanger yaourt, jus de citron, menthe ciselée et zeste.\n9. Servir chaud avec la sauce fraîche.",
+      "difficulty": "Facile",
+      "prepTime": 25,
+      "cookingSteps": [
+        {
+          "id": "r5b15cf7bc6aa",
+          "mode": "Four 200°C",
+          "duration": 28
+        }
+      ],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "lacuisinedessouvenirs.com (adapté)",
+      "tags": [
+        "apéro",
+        "pique-nique"
+      ],
+      "variants": [
+        "Végétarien",
+        "Sans gluten"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Se congèle très bien crue. Peut aussi se cuire à la poêle."
+    },
+    {
+      "id": "r830af4344c95",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Cake camembert & lardons",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "r67d1aef37ffe",
+          "mercurialeId": "rf493caf2c6af",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Camembert"
+        },
+        {
+          "id": "r99f34a420ed3",
+          "mercurialeId": "r6dcee552902d",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Lardons fumés"
+        },
+        {
+          "id": "r4eb8bfbfa37a",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "rbcb114f6ab9b",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "re27ce1627774",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 100,
+          "unit": "ml",
+          "name": "Lait entier"
+        },
+        {
+          "id": "rb0c2b0b8e7bd",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": 100,
+          "unit": "ml",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "r2c2c2552a89c",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Levure chimique"
+        },
+        {
+          "id": "r31cad62b3907",
+          "mercurialeId": "rd7b943c3ea73",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Gruyère râpé"
+        },
+        {
+          "id": "re49e3e2d42bb",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r1d179a722b10",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 180°C.\n2. Battre les œufs avec le lait et l'huile d'olive.\n3. Ajouter la farine et la levure, mélanger jusqu'à pâte homogène.\n4. Incorporer les dés de camembert, les lardons, le gruyère, sel, poivre et muscade.\n5. Verser dans un moule à cake beurré et fariné.\n6. Enfourner environ 45 minutes.\n7. Laisser refroidir avant de démouler, servir tiède avec une salade verte.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r19d2f8312654",
+          "mode": "Four 180°C",
+          "duration": 45
+        }
+      ],
+      "servings": 7,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "apéro",
+        "cake salé"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "rc1a952be1ac3",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Clémentines farcies aux crevettes",
+      "categories": [
+        "Entrée",
+        "Apéritif"
+      ],
+      "ingredients": [
+        {
+          "id": "re397bf78c895",
+          "mercurialeId": "r051109f0ecc4",
+          "quantity": 4,
+          "unit": "pièce",
+          "name": "Clémentine"
+        },
+        {
+          "id": "rba9e2db48d73",
+          "mercurialeId": "r247229f74e7a",
+          "quantity": 12,
+          "unit": "pièce",
+          "name": "Crevettes cuites décortiquées"
+        },
+        {
+          "id": "r3a14bcabee70",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": 50,
+          "unit": "g",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "r578258b0bc14",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Persil frais"
+        },
+        {
+          "id": "rc95aded6488c",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "rf760ed4150f1",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Rincer les crevettes/bouquets à l'eau fraîche.\n2. Les plonger dans une grande casserole d'eau salée bouillante, attendre la reprise de l'ébullition puis laisser cuire moins d'une minute. Égoutter.\n3. Couper le haut des clémentines, creuser délicatement pour récupérer la chair.\n4. Mélanger la chair avec le fromage frais, les crevettes émincées et le persil. Ajouter un peu de jus, sel et poivre.\n5. Répartir la préparation dans les coques de clémentines, réserver au frais 1 heure.\n6. Ajouter le topping (persil ou aneth) avant de servir bien frais.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r2ca2809b29a1",
+          "mode": "Réfrigération",
+          "duration": 60
+        }
+      ],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "apéro"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r65c7dcfcd6ce",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Concombres farcis au thon",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "rd64a00a1158a",
+          "mercurialeId": "rbe7ed9af22f2",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Concombre"
+        },
+        {
+          "id": "re1ffa2231bd2",
+          "mercurialeId": "r7ca43163e0ec",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Thon en boîte"
+        },
+        {
+          "id": "r474a597a81f9",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "r2eb5c6e8b63d",
+          "mercurialeId": "r796ee605cac1",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Mayonnaise"
+        },
+        {
+          "id": "r59c77d23f165",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "re6480329f08f",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Oignon nouveau"
+        },
+        {
+          "id": "rf2a8386b44c9",
+          "mercurialeId": "rddc30b2ac29a",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Ciboulette"
+        },
+        {
+          "id": "rae24d0d39737",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r520cb9746f53",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r67a26c389bc7",
+          "mercurialeId": "r5cca86491ca2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Paprika"
+        }
+      ],
+      "steps": "1. Laver les concombres, les couper en deux dans la longueur.\n2. Retirer les graines à la cuillère pour créer des cavités.\n3. Émietter le thon égoutté dans un saladier.\n4. Ajouter le fromage frais, la mayonnaise, le jus de citron, l'oignon nouveau ciselé et les herbes. Mélanger, saler, poivrer.\n5. Garnir les concombres avec la préparation à la cuillère ou à la poche à douille.\n6. Saupoudrer de paprika doux avant de servir.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "été",
+        "apéro"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "rbd6e1878a881",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Croque-monsieur gourmand aux champignons",
+      "categories": [
+        "Plat"
+      ],
+      "ingredients": [
+        {
+          "id": "r57694d0a01cc",
+          "mercurialeId": "r830dc34cb49d",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Pain de mie"
+        },
+        {
+          "id": "r17286bbd75a3",
+          "mercurialeId": "reb4b3f2fcd89",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Jambon"
+        },
+        {
+          "id": "r2383500cfdce",
+          "mercurialeId": "re324e918daaf",
+          "quantity": 80,
+          "unit": "g",
+          "name": "Champignons"
+        },
+        {
+          "id": "rb3ff7f51bddc",
+          "mercurialeId": null,
+          "quantity": 100,
+          "unit": "g",
+          "name": "Fromage râpé (emmental, comté...)"
+        },
+        {
+          "id": "r1a25df33e13e",
+          "mercurialeId": "rb6985a597aae",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Crème fraîche"
+        },
+        {
+          "id": "r34ca7a7c8844",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "rf2ad607e840d",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "rb89e20dd9576",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Nettoyer les champignons, les couper en lamelles.\n2. Les faire revenir dans un peu de beurre jusqu'à ce qu'ils soient dorés. Saler, poivrer, réserver.\n3. Étaler la crème fraîche sur une tranche de pain de mie.\n4. Ajouter le jambon puis les champignons sautés, parsemer de fromage râpé, refermer avec la seconde tranche.\n5. Faire fondre le beurre dans une poêle, cuire le croque jusqu'à ce qu'il soit doré des deux côtés.",
+      "difficulty": "Facile",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "re0ea55e065d3",
+          "mode": "Poêle",
+          "duration": 6
+        }
+      ],
+      "servings": 1,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "snack"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Cuisson au four possible pour plusieurs à la fois (tremper le dessus dans un peu de lait)."
+    },
+    {
+      "id": "r5682de1a45ff",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Dômes de saumon",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "r76c879c32ade",
+          "mercurialeId": "r3d6db2904dbe",
+          "quantity": 800,
+          "unit": "g",
+          "name": "Saumon fumé"
+        },
+        {
+          "id": "r44feb1e27990",
+          "mercurialeId": null,
+          "quantity": 10,
+          "unit": "ml",
+          "name": "Vinaigre"
+        },
+        {
+          "id": "rd10d38ca0aa2",
+          "mercurialeId": "rfe734ef1f135",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Avocat"
+        },
+        {
+          "id": "r5358a1ebd27e",
+          "mercurialeId": "rf6800cda68f8",
+          "quantity": 110,
+          "unit": "g",
+          "name": "Fromage à la crème (type Philadelphia)"
+        },
+        {
+          "id": "re8e50f80352d",
+          "mercurialeId": "rbe7ed9af22f2",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Concombre"
+        },
+        {
+          "id": "r28eb6c9892b2",
+          "mercurialeId": null,
+          "quantity": 250,
+          "unit": "g",
+          "name": "Riz bouilli"
+        },
+        {
+          "id": "r887b35ce34b0",
+          "mercurialeId": null,
+          "quantity": 8,
+          "unit": "g",
+          "name": "Graines de sésame blanc"
+        },
+        {
+          "id": "r691ab73c17a7",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "re763b749429a",
+          "mercurialeId": "r63b15b6eb2ea",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Aneth frais"
+        }
+      ],
+      "steps": "1. Cuire le riz, le laisser refroidir, former 6 boules.\n2. Recouvrir le fond de 6 coupes à pied de tranches de saumon fumé.\n3. Ajouter les boules de riz, écraser délicatement au presse-purée.\n4. Couper l'avocat en tranches, ajouter quelques gouttes de citron.\n5. Ajouter la crème de fromage à la douille, disposer les rondelles de concombre.\n6. Remettre de la crème de fromage, poivrer, puis refermer avec des tranches de saumon.\n7. Retourner les coupes sur une plaque, saupoudrer de sésame, réserver au frais.\n8. Dresser sur un lit de salade avec une rondelle de citron et un brin d'aneth.",
+      "difficulty": "Moyen",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "rf23f0e398e79",
+          "mode": "Cuisson du riz",
+          "duration": 15
+        },
+        {
+          "id": "r770452e4375a",
+          "mode": "Réfrigération",
+          "duration": 15
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "apéro",
+        "chic"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r8200e494aded",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Donut's salés",
+      "categories": [
+        "Entrée",
+        "Plat"
+      ],
+      "ingredients": [
+        {
+          "id": "r062d8ebbfce0",
+          "mercurialeId": null,
+          "quantity": 200,
+          "unit": "g",
+          "name": "Maïs"
+        },
+        {
+          "id": "rc54d00816c01",
+          "mercurialeId": "r3bf2b152ddac",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Carotte râpée"
+        },
+        {
+          "id": "r3ed0073466cf",
+          "mercurialeId": "r9dda083a7756",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Mozzarella"
+        },
+        {
+          "id": "r9fec227f4209",
+          "mercurialeId": "rf6800cda68f8",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Fromage à la crème (type Philadelphia)"
+        },
+        {
+          "id": "r936b854220ca",
+          "mercurialeId": "r444170267935",
+          "quantity": 4,
+          "unit": "pièce",
+          "name": "Laitue / salade"
+        },
+        {
+          "id": "r97bcaf892caa",
+          "mercurialeId": "r45d3ecd9c3ea",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Tomate"
+        },
+        {
+          "id": "r476d39ff5647",
+          "mercurialeId": "reb4b3f2fcd89",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Jambon"
+        },
+        {
+          "id": "r6164e89edf1e",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "reb19b0f7f4ba",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r3573f69259dc",
+          "mercurialeId": "rddc30b2ac29a",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Ciboulette"
+        }
+      ],
+      "steps": "1. Mélanger le fromage à la crème avec les herbes, sel et poivre pour la garniture.\n2. Laver la salade, les tomates ; préparer les carottes râpées et le jambon (ou chorizo, thon, truite).\n3. Préchauffer le four à 180°C.\n4. Mélanger le maïs égoutté et les carottes râpées sur une plaque, former des ronds avec un trou au centre à l'aide d'un bol, ajouter la mozzarella râpée.\n5. Enfourner 10 minutes.\n6. Badigeonner les donut's de crème de fromage, garnir de salade, jambon et tomate, refermer avec le second donut's.\n7. Servir sur un lit de carottes râpées et ciboulette.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "rae32a48cb3d6",
+          "mode": "Four 180°C",
+          "duration": 10
+        }
+      ],
+      "servings": 2,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "apéro",
+        "original"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Variantes garniture : chorizo, thon ou truite à la place du jambon."
+    },
+    {
+      "id": "r076bcce54406",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Pêches au thon",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "red2f3a962c35",
+          "mercurialeId": "r647b48b9f1ed",
+          "quantity": 230,
+          "unit": "g",
+          "name": "Pêches au sirop (boîte)"
+        },
+        {
+          "id": "r682ef572c8dd",
+          "mercurialeId": "r7ca43163e0ec",
+          "quantity": 140,
+          "unit": "g",
+          "name": "Thon en boîte"
+        },
+        {
+          "id": "r394a2f131699",
+          "mercurialeId": "r796ee605cac1",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Mayonnaise"
+        },
+        {
+          "id": "rcb85e2405a06",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Persil frais"
+        },
+        {
+          "id": "ref8eaf10fc97",
+          "mercurialeId": "rddc30b2ac29a",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Ciboulette"
+        },
+        {
+          "id": "r88af3f7248cd",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r306ce47a7b8f",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Égoutter les pêches, les éponger sur du papier absorbant.\n2. Émietter le thon à la fourchette dans un bol.\n3. Ajouter la mayonnaise, mélanger jusqu'à préparation homogène. Saler, poivrer.\n4. Garnir généreusement chaque demi-pêche avec le mélange de thon.\n5. Parsemer de persil et ciboulette ciselés avant de servir.",
+      "difficulty": "Facile",
+      "prepTime": 10,
+      "cookingSteps": [],
+      "servings": 2,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "été",
+        "originale"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r39b36a355d26",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Salade de concombre fraîche et colorée",
+      "categories": [
+        "Entrée",
+        "Accompagnement"
+      ],
+      "ingredients": [
+        {
+          "id": "r6850c45657a3",
+          "mercurialeId": "rbe7ed9af22f2",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Concombre"
+        },
+        {
+          "id": "rfaca668f6136",
+          "mercurialeId": "rae61952cd4a0",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Oignon rouge"
+        },
+        {
+          "id": "r9c9f9022252f",
+          "mercurialeId": null,
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Vinaigre de cidre"
+        },
+        {
+          "id": "rdb8ee15542e4",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "r48f3da2b8816",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "r03f60e955411",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sucre ou miel"
+        },
+        {
+          "id": "r6d239c7be48a",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r2c8e668a8e5e",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r7531a2adef2b",
+          "mercurialeId": "r63b15b6eb2ea",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Aneth frais"
+        },
+        {
+          "id": "r7717f191257f",
+          "mercurialeId": "r76e140c80b39",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Menthe fraîche"
+        }
+      ],
+      "steps": "1. Laver les concombres, les couper en fines rondelles. Émincer finement l'oignon rouge.\n2. Mélanger le vinaigre de cidre, le jus de citron, l'huile d'olive et le sucre (ou miel). Saler, poivrer.\n3. Mélanger les concombres et l'oignon avec la vinaigrette.\n4. Ajouter l'aneth ou le persil et les feuilles de menthe.\n5. Réserver au réfrigérateur 30 minutes avant de servir bien frais.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r792b8a53a494",
+          "mode": "Réfrigération",
+          "duration": 30
+        }
+      ],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "été",
+        "léger"
+      ],
+      "variants": [
+        "Végétarien",
+        "Végane",
+        "Sans gluten"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "rbff76d744398",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Tomates à la mousse d'avocats",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "re05dd221f3cf",
+          "mercurialeId": "r45d3ecd9c3ea",
+          "quantity": 5,
+          "unit": "pièce",
+          "name": "Tomate"
+        },
+        {
+          "id": "r1f92184a1857",
+          "mercurialeId": "rfe734ef1f135",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Avocat"
+        },
+        {
+          "id": "r62810981e28a",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "r046f39417cc1",
+          "mercurialeId": null,
+          "quantity": 140,
+          "unit": "g",
+          "name": "Maïs en boîte égoutté"
+        },
+        {
+          "id": "rc4ab256c14be",
+          "mercurialeId": null,
+          "quantity": 100,
+          "unit": "g",
+          "name": "Garniture au choix (concombre, surimi, thon...)"
+        },
+        {
+          "id": "r32a94e8e9465",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Vinaigre balsamique"
+        },
+        {
+          "id": "rb31b3cd5ca48",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r96f56ee551b5",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "rd7fb818ee2be",
+          "mercurialeId": "rd78c49added1",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "r6745a4225095",
+          "mercurialeId": "r8db755e9d811",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Basilic frais"
+        }
+      ],
+      "steps": "1. Couper le haut des tomates pour former un chapeau, les vider à la cuillère, laisser dégorger retournées.\n2. Écraser les avocats à la fourchette avec quelques gouttes de citron pour éviter l'oxydation.\n3. Ajouter le fromage frais et mélanger.\n4. Incorporer le vinaigre balsamique, le maïs et la garniture en petits dés.\n5. Farcir chaque tomate, couvrir avec le chapeau, réserver au frais au moins 1 heure.\n6. Servir bien frais avec quelques feuilles de basilic, coriandre ou ciboulette en déco.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "r06d3a6030436",
+          "mode": "Réfrigération",
+          "duration": 60
+        }
+      ],
+      "servings": 3,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "été",
+        "apéro"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r4b11b120d761",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Tortillas de brocolis, maïs et fromage frais",
+      "categories": [
+        "Entrée",
+        "Plat"
+      ],
+      "ingredients": [
+        {
+          "id": "r324e523ec489",
+          "mercurialeId": null,
+          "quantity": 200,
+          "unit": "g",
+          "name": "Maïs en conserve"
+        },
+        {
+          "id": "r42ed97674585",
+          "mercurialeId": "r8e8bc8bb9387",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Brocolis"
+        },
+        {
+          "id": "rbbdbe27d3049",
+          "mercurialeId": "r9dda083a7756",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Mozzarella"
+        },
+        {
+          "id": "r1b374a1cc74b",
+          "mercurialeId": "rf6800cda68f8",
+          "quantity": 20,
+          "unit": "g",
+          "name": "Fromage à la crème (type Philadelphia)"
+        },
+        {
+          "id": "r4bec611b8e7a",
+          "mercurialeId": "r444170267935",
+          "quantity": 20,
+          "unit": "g",
+          "name": "Laitue / salade"
+        },
+        {
+          "id": "r3b3262c9ca78",
+          "mercurialeId": "reb4b3f2fcd89",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Jambon"
+        },
+        {
+          "id": "r6c91f5291db4",
+          "mercurialeId": "r45d3ecd9c3ea",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Tomate"
+        },
+        {
+          "id": "r4e4d92769c21",
+          "mercurialeId": "rae61952cd4a0",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Oignon rouge"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 180°C.\n2. Laver et hacher le brocolis, rincer et égoutter le maïs.\n3. Sur une plaque avec papier cuisson, mélanger brocolis et maïs, former 4 rectangles à la râpe, parsemer de mozzarella râpée.\n4. Enfourner 10 minutes.\n5. Trancher les tomates, émincer l'oignon rouge, couper la salade en deux.\n6. Mélanger le fromage à la crème avec des herbes fraîches.\n7. Étaler le fromage sur les rectangles, ajouter salade, jambon, tomate, plier en deux.\n8. Servir sur un lit de salade ou de crudités râpées.",
+      "difficulty": "Facile",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "r93aabea53e6d",
+          "mode": "Four 180°C",
+          "duration": 10
+        }
+      ],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "sandwich"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Variantes garniture : chorizo, thon à la place du jambon."
+    },
+    {
+      "id": "re95b9b313882",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Tourte au saumon",
+      "categories": [
+        "Entrée",
+        "Plat"
+      ],
+      "ingredients": [
+        {
+          "id": "re87721a801f3",
+          "mercurialeId": "r5172bf976447",
+          "quantity": 400,
+          "unit": "g",
+          "name": "Pâte feuilletée"
+        },
+        {
+          "id": "r544679989448",
+          "mercurialeId": "r3d6db2904dbe",
+          "quantity": 300,
+          "unit": "g",
+          "name": "Saumon fumé"
+        },
+        {
+          "id": "r082e50ae9730",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "raddf206272d2",
+          "mercurialeId": "ra227d74e55db",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Ail"
+        },
+        {
+          "id": "r2c3948ce6749",
+          "mercurialeId": "r9dda083a7756",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Mozzarella"
+        },
+        {
+          "id": "r0f2f59cfbc9d",
+          "mercurialeId": "rf6800cda68f8",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Fromage à la crème (type Philadelphia)"
+        },
+        {
+          "id": "r83229162a36b",
+          "mercurialeId": "r63b15b6eb2ea",
+          "quantity": 10,
+          "unit": "g",
+          "name": "Aneth frais"
+        },
+        {
+          "id": "re940d0a09064",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": 10,
+          "unit": "g",
+          "name": "Persil frais"
+        },
+        {
+          "id": "r79c0dc8a5448",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Œufs"
+        }
+      ],
+      "steps": "1. Étaler la pâte, découper un grand rond puis marquer un cercle plus petit au centre ; découper des lanières (pétales) tout autour.\n2. Découper des lanières de saumon fumé de la même taille, les enrouler dans les pétales et les redresser.\n3. Retirer le cercle central, badigeonner de beurre et parsemer d'une pincée d'ail.\n4. Mélanger mozzarella, herbes ciselées, fromage à la crème et poivre.\n5. Étaler ce mélange au centre, sur le beurre et l'ail.\n6. Badigeonner les pétales de saumon du jaune d'œuf.\n7. Enfourner 25 minutes à 180°C.\n8. Servir avec une salade verte.",
+      "difficulty": "Moyen",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r6e5800336552",
+          "mode": "Four 180°C",
+          "duration": 25
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "saumon",
+        "chic"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r6f1190517904",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Chou-fleur rôti croustillant au parmesan",
+      "categories": [
+        "Accompagnement"
+      ],
+      "ingredients": [
+        {
+          "id": "rb078848cfd2f",
+          "mercurialeId": "rb97cc5969841",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Chou-fleur"
+        },
+        {
+          "id": "re5212f3c8b9d",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r4dcbd69ced27",
+          "mercurialeId": "r5cca86491ca2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Paprika"
+        },
+        {
+          "id": "r4f81515ebbd9",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "rfa107fa3b7d8",
+          "mercurialeId": "r957be7558ede",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Parmesan râpé"
+        },
+        {
+          "id": "rc5d3fa28f458",
+          "mercurialeId": "ra227d74e55db",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Ail"
+        },
+        {
+          "id": "r38631662ecaa",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r49cc9d8d4b2a",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Herbes de Provence"
+        },
+        {
+          "id": "r06f3724d699d",
+          "mercurialeId": "r813d172dd90d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Persil frais"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 200°C. Détailler le chou-fleur en fleurettes de taille uniforme.\n2. Mélanger huile d'olive, sel, paprika, ail en poudre, poivre et herbes de Provence.\n3. Enrober les fleurettes de cette marinade.\n4. Disposer sur une plaque sans les faire se chevaucher, enfourner 20 minutes.\n5. Saupoudrer de parmesan râpé, remettre au four 5 à 10 minutes jusqu'à ce que le fromage soit fondu et doré.\n6. Laisser tiédir, parsemer de persil frais avant de servir.",
+      "difficulty": "Facile",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "ra8aec93113a4",
+          "mode": "Four 200°C",
+          "duration": 27
+        }
+      ],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "légumes"
+      ],
+      "variants": [
+        "Végétarien",
+        "Sans gluten"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r331899857154",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Légumes rôtis",
+      "categories": [
+        "Accompagnement"
+      ],
+      "ingredients": [
+        {
+          "id": "r6ddc50bff920",
+          "mercurialeId": "rfc732bb0bfda",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Patate douce"
+        },
+        {
+          "id": "r3aeee98bfa33",
+          "mercurialeId": "r614945b28595",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Fenouil"
+        },
+        {
+          "id": "r6054faceb2be",
+          "mercurialeId": "re324e918daaf",
+          "quantity": 4,
+          "unit": "pièce",
+          "name": "Champignons"
+        },
+        {
+          "id": "r31c351717190",
+          "mercurialeId": "rbbf7b27b9c59",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Courgette"
+        },
+        {
+          "id": "r209979b7ae1e",
+          "mercurialeId": "r001f18530140",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Oignon"
+        },
+        {
+          "id": "r27f4af59bfc4",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r1b758b70f1a7",
+          "mercurialeId": "r5cca86491ca2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Paprika"
+        },
+        {
+          "id": "rcae1d40de97a",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "re64c6ddb998b",
+          "mercurialeId": "r957be7558ede",
+          "quantity": 60,
+          "unit": "g",
+          "name": "Parmesan râpé"
+        },
+        {
+          "id": "rcf531bac0338",
+          "mercurialeId": "ra227d74e55db",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Ail"
+        },
+        {
+          "id": "rf02b6d685774",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r91b9284cf4ba",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Romarin"
+        },
+        {
+          "id": "r8281b1cdecd9",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Thym"
+        },
+        {
+          "id": "rc4dbb09978ac",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Pistaches et noisettes"
+        }
+      ],
+      "steps": "1. Laver et éplucher tous les légumes, couper en gros morceaux, émincer l'oignon.\n2. Mélanger les légumes avec l'huile et les épices dans un grand saladier, laisser mariner au moins 2 heures.\n3. Préchauffer le four à 180°C.\n4. Disposer les légumes sur une plaque sans trop les chevaucher, verser la marinade dessus.\n5. Enfourner environ 40 minutes.\n6. Saupoudrer de parmesan, remettre au four 5 à 10 minutes jusqu'à ce qu'il soit doré.\n7. Laisser tiédir, parsemer de persil avant de servir.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r7a81ba88c446",
+          "mode": "Marinade",
+          "duration": 120
+        },
+        {
+          "id": "r9a6d6e06e670",
+          "mode": "Four 180°C",
+          "duration": 45
+        }
+      ],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "légumes"
+      ],
+      "variants": [
+        "Végétarien",
+        "Sans gluten"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "raef5bfef5bb8",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Garniture galette : courgettes feta",
+      "categories": [
+        "Garniture galette"
+      ],
+      "ingredients": [
+        {
+          "id": "r4f34a15706c7",
+          "mercurialeId": "rbbf7b27b9c59",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Courgette"
+        },
+        {
+          "id": "rea74478cdde4",
+          "mercurialeId": "rae61952cd4a0",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Oignon rouge"
+        },
+        {
+          "id": "r3529ffb4b72d",
+          "mercurialeId": "rb33c2ecf48ca",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Feta"
+        },
+        {
+          "id": "rd63827edb050",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "rda2f7d56303a",
+          "mercurialeId": null,
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Herbes de Provence"
+        },
+        {
+          "id": "ra252bf2a4c8a",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r14321acf9174",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Laver et couper les courgettes en dés ou les râper grossièrement ; éplucher si la peau est épaisse.\n2. Égoutter les courgettes salées dans une passoire 5 minutes, puis presser dans un torchon.\n3. Émincer finement l'oignon rouge.\n4. Émietter la feta au couteau.\n5. Faire revenir l'oignon dans l'huile d'olive 2-3 minutes à feu moyen jusqu'à ce qu'il soit translucide.\n6. Ajouter les courgettes, les herbes de Provence, sel et poivre, cuire 5 minutes à feu moyen.\n7. Étaler 2-3 cuillères de garniture sur une moitié de galette, parsemer de feta émiettée.",
+      "difficulty": "Facile",
+      "prepTime": 5,
+      "cookingSteps": [
+        {
+          "id": "r7d31c441e680",
+          "mode": "Poêle",
+          "duration": 10
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "Korrigan",
+        "galette"
+      ],
+      "variants": [
+        "Végétarien"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Coût estimé ~1,05€/galette (6 galettes) — voir prix indicatifs dans la mercuriale."
+    },
+    {
+      "id": "re8807d928d6f",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Garniture galette : fondue de poireaux au saumon",
+      "categories": [
+        "Garniture galette"
+      ],
+      "ingredients": [
+        {
+          "id": "r4e86a05593b1",
+          "mercurialeId": "r74d36f53ee95",
+          "quantity": 3560,
+          "unit": "g",
+          "name": "Poireau"
+        },
+        {
+          "id": "rea711aadd76d",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "rd0cd3ea833b9",
+          "mercurialeId": "r6ea4c0ec9a85",
+          "quantity": 5,
+          "unit": "pièce",
+          "name": "Moutarde de Dijon"
+        },
+        {
+          "id": "r1f0bc4919bdd",
+          "mercurialeId": "rb6985a597aae",
+          "quantity": 10,
+          "unit": "pièce",
+          "name": "Crème fraîche"
+        },
+        {
+          "id": "rc4699bdcd492",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 10,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "rfe728462f87b",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Muscade"
+        },
+        {
+          "id": "redc53cb28edd",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r8012594b5388",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r208c274d5c94",
+          "mercurialeId": "r3d6db2904dbe",
+          "quantity": 40,
+          "unit": "g",
+          "name": "Saumon fumé"
+        }
+      ],
+      "steps": "1. Couper les poireaux en deux puis en tronçons, laver soigneusement.\n2. Faire fondre le beurre, ajouter les poireaux, couvrir et cuire à feu très doux environ 25 minutes en remuant de temps en temps.\n3. Ajouter le jus de citron, la moutarde et la crème, saler légèrement, poivrer, bien mélanger.\n4. Couvrir et laisser cuire encore 10 minutes à feu doux.\n5. Ajouter le saumon fumé émietté.\n6. Servir la galette avec une demi-tranche de citron et une pincée d'aneth ciselée.",
+      "difficulty": "Facile",
+      "prepTime": 25,
+      "cookingSteps": [
+        {
+          "id": "r77a8ab6a50b7",
+          "mode": "Poêle (poireaux)",
+          "duration": 35
+        }
+      ],
+      "servings": 20,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "Korrigan",
+        "galette",
+        "saumon"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Coût estimé ~0,77 à 1,56 €/galette selon présentation (avec ou sans saumon/déco) — voir mercuriale."
+    },
+    {
+      "id": "rb7e22fdf5856",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Pain à l'avoine (sans gluten)",
+      "categories": [
+        "Pain"
+      ],
+      "ingredients": [
+        {
+          "id": "r06cd28bce810",
+          "mercurialeId": "r353c426d51d9",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Yaourt nature"
+        },
+        {
+          "id": "r7cf04965d8d1",
+          "mercurialeId": "r71b18d43be67",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Flocons d'avoine"
+        },
+        {
+          "id": "r23114712c397",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "r8cbd205ae38d",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r7226fa5ffa59",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "r03cde1ea2013",
+          "mercurialeId": null,
+          "quantity": 0.5,
+          "unit": "pièce",
+          "name": "Levure chimique"
+        },
+        {
+          "id": "r3731aea7a9fb",
+          "mercurialeId": "r8b09bbe8479d",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Graines (lin, sésame, tournesol...)"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 180°C.\n2. Mélanger les flocons d'avoine mixés, la levure et le sel dans un grand bol.\n3. Incorporer les œufs, le yaourt et l'huile d'olive, mélanger jusqu'à pâte homogène.\n4. Ajouter éventuellement des graines et mélanger délicatement.\n5. Verser dans un moule à cake huilé ou façonner sur une plaque, ajouter des graines dessus.\n6. Enfourner 30 à 35 minutes.\n7. Laisser tiédir avant de démouler.",
+      "difficulty": "Facile",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "r40800ae03b66",
+          "mode": "Four 180°C",
+          "duration": 32
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "pain",
+        "sans gluten"
+      ],
+      "variants": [
+        "Sans gluten",
+        "Végétarien"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r29d9e2253fea",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Pain aux graines de sarrasin",
+      "categories": [
+        "Pain"
+      ],
+      "ingredients": [
+        {
+          "id": "r752394dd5e5a",
+          "mercurialeId": "re6b3df5d4733",
+          "quantity": 500,
+          "unit": "g",
+          "name": "Graines de sarrasin"
+        },
+        {
+          "id": "r1d4c79cf8f6f",
+          "mercurialeId": null,
+          "quantity": 200,
+          "unit": "ml",
+          "name": "Eau filtrée"
+        },
+        {
+          "id": "ree808b334b84",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r3db3e2b907ea",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "ree67e90f5ae5",
+          "mercurialeId": "r8b09bbe8479d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Graines (lin, sésame, tournesol...)"
+        },
+        {
+          "id": "r4eded6ae886c",
+          "mercurialeId": "r33b6f58f8a8d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Noisettes"
+        },
+        {
+          "id": "r788702355a8a",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r97ab50c72e74",
+          "mercurialeId": "re98cee6f9767",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Piment doux"
+        }
+      ],
+      "steps": "1. Mettre les graines de sarrasin dans un saladier, recouvrir d'eau, couvrir d'un torchon et laisser fermenter environ 12h (une nuit).\n2. Égoutter sans rincer, pour garder le mucilage.\n3. Mixer grossièrement avec 200ml d'eau filtrée et le gros sel — la texture doit rester granuleuse.\n4. Remettre dans un saladier, couvrir, laisser fermenter à nouveau environ 12h.\n5. Préchauffer le four à 200°C, chemiser un moule à cake de papier cuisson.\n6. Ajouter un filet d'huile d'olive, les graines et fruits à coque choisis, poivre et piment d'Espelette.\n7. Verser dans le moule, ajouter quelques graines sur le dessus.\n8. Enfourner 1h à 1h15 à 200°C, surveiller avec la pointe d'un couteau.",
+      "difficulty": "Moyen",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "ra503479ae479",
+          "mode": "Fermentation (2x12h)",
+          "duration": 1440
+        },
+        {
+          "id": "rc2faf89af2da",
+          "mode": "Four 200°C",
+          "duration": 75
+        }
+      ],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "pain",
+        "fermentation"
+      ],
+      "variants": [
+        "Végétarien",
+        "Végane",
+        "Sans gluten"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Prévoir plusieurs jours de préparation (fermentation)."
+    },
+    {
+      "id": "r833a8dcba527",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Pain aux betteraves cuites",
+      "categories": [
+        "Pain"
+      ],
+      "ingredients": [
+        {
+          "id": "r948f95efdd74",
+          "mercurialeId": "r5474e933ce92",
+          "quantity": 250,
+          "unit": "g",
+          "name": "Betterave cuite"
+        },
+        {
+          "id": "r4770ffc9a748",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "r3a28e57a9cdf",
+          "mercurialeId": "r71b18d43be67",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Flocons d'avoine"
+        },
+        {
+          "id": "r1728ef31c79d",
+          "mercurialeId": "r5a89ab39f2dd",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Psyllium"
+        },
+        {
+          "id": "r0f4995cfeb16",
+          "mercurialeId": "re456de96db09",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Bicarbonate alimentaire"
+        },
+        {
+          "id": "r487e83f005a0",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "rb182a1778745",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Préchauffer le four à 180°C.\n2. Mixer (blender ou girafe) les betteraves coupées grossièrement avec les œufs et le sel.\n3. Ajouter les flocons d'avoine, mixer à nouveau.\n4. Incorporer le psyllium à la cuillère.\n5. Mouiller les mains, former des boules avec le mélange, déposer sur une plaque avec papier cuisson.\n6. Ajouter des flocons d'avoine ou graines sur le dessus.\n7. Enfourner environ 40 minutes, surveiller avec la pointe d'un couteau.",
+      "difficulty": "Facile",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "r71924660c5f2",
+          "mode": "Four 180°C",
+          "duration": 40
+        }
+      ],
+      "servings": 7,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "pain",
+        "coloré"
+      ],
+      "variants": [
+        "Végétarien"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "6 à 8 petits pains individuels."
+    },
+    {
+      "id": "r90a73bc5e28c",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta au chèvre et compotée de tomates cerises",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "raa1c0ef4b488",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 200,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r9f991b4a61e5",
+          "mercurialeId": "rfb5abd01d8b2",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Fromage frais"
+        },
+        {
+          "id": "r9451d4b8406c",
+          "mercurialeId": null,
+          "quantity": 70,
+          "unit": "ml",
+          "name": "Lait d'avoine"
+        },
+        {
+          "id": "rbdbbbfa93458",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poudre de fenouil"
+        },
+        {
+          "id": "r014447a4e71c",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "rf3d542293495",
+          "mercurialeId": "r45d3ecd9c3ea",
+          "quantity": 210,
+          "unit": "g",
+          "name": "Tomate"
+        },
+        {
+          "id": "r51b80501c93c",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 10,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "r21b638ffaf58",
+          "mercurialeId": null,
+          "quantity": 5,
+          "unit": "pièce",
+          "name": "Sauge fraîche"
+        },
+        {
+          "id": "r9a35f4351697",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 5,
+          "unit": "ml",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "r049c67d7fe66",
+          "mercurialeId": null,
+          "quantity": 5,
+          "unit": "g",
+          "name": "Agar-agar"
+        }
+      ],
+      "steps": "1. Laver les tomates cerises, les couper en 6. Cuire à la poêle avec le beurre clarifié et la sauge hachée.\n2. Ajouter le jus de citron et une pincée de sel, laisser mijoter jusqu'à obtenir une compotée.\n3. Pour la panna cotta : verser la crème, le lait d'avoine et le fromage frais (chèvre) dans une casserole.\n4. Faire mijoter à feu doux jusqu'à ce que le fromage soit fondu et la préparation homogène.\n5. Assaisonner avec le fenouil et le sel, ajouter l'agar-agar, fouetter 3 minutes.\n6. Verser la compotée de tomate au fond des verrines, ajouter la crème au fromage par-dessus.\n7. Laisser refroidir puis réfrigérer 2 à 3 heures maximum.\n8. Décorer d'une tomate cerise et d'une feuille de basilic.",
+      "difficulty": "Moyen",
+      "prepTime": 30,
+      "cookingSteps": [
+        {
+          "id": "r2b4d6946ca89",
+          "mode": "Cuisson tomates",
+          "duration": 10
+        },
+        {
+          "id": "r257aea063b1e",
+          "mode": "Réfrigération",
+          "duration": 150
+        }
+      ],
+      "servings": 4,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta salée",
+        "verrine"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r00d39fee1ffc",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta chorizo",
+      "categories": [
+        "Entrée",
+        "Apéritif"
+      ],
+      "ingredients": [
+        {
+          "id": "r4d5fce2a97df",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "r7f8ebc281279",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 750,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "rff9e5f01a2ab",
+          "mercurialeId": "r78bfc28db26c",
+          "quantity": 9,
+          "unit": "pièce",
+          "name": "Chorizo"
+        },
+        {
+          "id": "r91e4b54bbb84",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Cubes de chorizo (topping)"
+        },
+        {
+          "id": "r2c48c5c56431",
+          "mercurialeId": "rddc30b2ac29a",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Ciboulette"
+        },
+        {
+          "id": "reb0b24e51deb",
+          "mercurialeId": "r33b6f58f8a8d",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Noisettes"
+        },
+        {
+          "id": "r66ba1b18563a",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r2ea7147bf7f0",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Faire ramollir la gélatine dans l'eau froide 10 minutes.\n2. Chauffer la crème liquide avec les rondelles de chorizo à feu doux, arrêter aux premiers frémissements.\n3. Laisser infuser à couvert 15 minutes.\n4. Incorporer la gélatine égouttée, bien mélanger jusqu'à dissolution complète.\n5. Verser dans des verrines, laisser refroidir puis réfrigérer au moins 2 heures.\n6. Ajouter des cubes de chorizo, herbes fraîches et/ou noisettes torréfiées en topping.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r5cefa1d0712f",
+          "mode": "Infusion",
+          "duration": 15
+        },
+        {
+          "id": "rbc92e9589ab6",
+          "mode": "Réfrigération",
+          "duration": 120
+        }
+      ],
+      "servings": 12,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta salée",
+        "apéro"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r17e9f7c8d94e",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta à la courge et à la cardamome",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "rf2b7b38e01ec",
+          "mercurialeId": "rcfdc6b0c5e92",
+          "quantity": 300,
+          "unit": "g",
+          "name": "Courge"
+        },
+        {
+          "id": "rdf04f24ec3cb",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 10,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "r7903f339196c",
+          "mercurialeId": "r4ce2dfb2ec43",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Cardamome moulue"
+        },
+        {
+          "id": "r8bfbb47ec735",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r8ed62a7e5a54",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r4695ed67a051",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "r0d8013c82d06",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 300,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "rc4ba6ea74ac4",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 400,
+          "unit": "ml",
+          "name": "Lait entier"
+        },
+        {
+          "id": "rac7d22cfbe5c",
+          "mercurialeId": "rf63a9c896bec",
+          "quantity": 3,
+          "unit": "pièce",
+          "name": "Romarin frais"
+        }
+      ],
+      "steps": "1. Faire ramollir la gélatine dans l'eau froide.\n2. Porter à ébullition la crème et le lait avec le romarin, sel et poivre.\n3. Filtrer, incorporer la gélatine essorée, répartir dans les verrines et réserver au frais au moins 3 heures.\n4. Éplucher la courge, la couper en dés, faire revenir au beurre puis couvrir d'eau et mijoter 20 minutes.\n5. Mixer la courge avec la moitié du jus de cuisson et la cardamome jusqu'à obtenir un coulis onctueux.\n6. Verser le coulis de courge sur les panna cotta et servir avec des gressins ou tuiles au parmesan.",
+      "difficulty": "Moyen",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "rafe965050daa",
+          "mode": "Réfrigération",
+          "duration": 180
+        },
+        {
+          "id": "r5aaf71b5d7d3",
+          "mode": "Cuisson courge",
+          "duration": 20
+        }
+      ],
+      "servings": 12,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta salée",
+        "automne"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "rf8b78c8dfa60",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta salée à la crème d'avocat et tomates fraîches",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "r89bf0ea33cff",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 415,
+          "unit": "ml",
+          "name": "Lait entier"
+        },
+        {
+          "id": "reea5df5b45e2",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 415,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r4c18be805e5e",
+          "mercurialeId": "rfe734ef1f135",
+          "quantity": 1.5,
+          "unit": "pièce",
+          "name": "Avocat"
+        },
+        {
+          "id": "r68b89e3e25b2",
+          "mercurialeId": "r45d3ecd9c3ea",
+          "quantity": 3.5,
+          "unit": "pièce",
+          "name": "Tomate"
+        },
+        {
+          "id": "r877360e407b0",
+          "mercurialeId": "rd78c49added1",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Jus de citron"
+        },
+        {
+          "id": "rea660ad5ca87",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 3.5,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "ra871735e30cb",
+          "mercurialeId": "r8db755e9d811",
+          "quantity": 10,
+          "unit": "pièce",
+          "name": "Basilic frais"
+        },
+        {
+          "id": "reb546cb6d62f",
+          "mercurialeId": "r65056288d4d2",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Huile d'olive"
+        },
+        {
+          "id": "r9877c9860b5f",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r255f75dc7878",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        }
+      ],
+      "steps": "1. Faire ramollir la gélatine dans l'eau froide.\n2. Porter à ébullition le lait et la crème, salés et poivrés.\n3. Ajouter la gélatine essorée, mélanger jusqu'à obtenir un mélange lisse.\n4. Verser dans des ramequins, laisser refroidir puis réfrigérer 2 heures.\n5. Mixer l'avocat avec le jus de citron pour obtenir une purée fine, saler, poivrer.\n6. Couper les tomates en dés, mélanger avec l'huile d'olive et le basilic ciselé.\n7. Étaler la purée d'avocat sur les panna cotta fermes, ajouter la salade de tomates, décorer de basilic.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "rfff548d00692",
+          "mode": "Réfrigération",
+          "duration": 120
+        }
+      ],
+      "servings": 10,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta salée",
+        "avocat"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Peut se préparer la veille (terminer avocat/tomates avant de servir)."
+    },
+    {
+      "id": "r91b57d241200",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta de chou-fleur au saumon fumé",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "r0ce91eb3442b",
+          "mercurialeId": "rb97cc5969841",
+          "quantity": 400,
+          "unit": "g",
+          "name": "Chou-fleur"
+        },
+        {
+          "id": "r8697d6e059f7",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 200,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "rd18e20cd8a64",
+          "mercurialeId": null,
+          "quantity": 3,
+          "unit": "g",
+          "name": "Agar-agar"
+        },
+        {
+          "id": "rfaa3b343bf3e",
+          "mercurialeId": "r3d6db2904dbe",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Saumon fumé"
+        },
+        {
+          "id": "r0b518bc3ba02",
+          "mercurialeId": null,
+          "quantity": 50,
+          "unit": "g",
+          "name": "Œufs de saumon"
+        },
+        {
+          "id": "ra704b5868aa7",
+          "mercurialeId": "r63b15b6eb2ea",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Aneth frais"
+        }
+      ],
+      "steps": "1. Détacher et laver les fleurettes de chou-fleur, les cuire à l'eau bouillante salée jusqu'à tendreté.\n2. Mixer finement avec 20cl d'eau de cuisson, la moitié du saumon fumé et la crème fleurette.\n3. Verser dans une casserole, ajouter l'agar-agar, porter à frémissement 1 minute.\n4. Saler si besoin, poivrer, répartir dans des verrines.\n5. Laisser refroidir puis réfrigérer, film alimentaire sur le dessus.\n6. Au moment de servir, ajouter des lamelles de saumon fumé, des œufs de saumon et un brin d'aneth.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [
+        {
+          "id": "rf863bb90ff43",
+          "mode": "Cuisson chou-fleur",
+          "duration": 10
+        },
+        {
+          "id": "r16da27617e53",
+          "mode": "Réfrigération",
+          "duration": 120
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta salée",
+        "saumon"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r3e7b12df6607",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Panna cotta parmesan (base salée)",
+      "categories": [
+        "Entrée"
+      ],
+      "ingredients": [
+        {
+          "id": "r4296b79d6004",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 250,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "r03183fc013d3",
+          "mercurialeId": "r957be7558ede",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Parmesan râpé"
+        },
+        {
+          "id": "r8c1610fb3437",
+          "mercurialeId": "r1e723d4c866f",
+          "quantity": 2,
+          "unit": "pièce",
+          "name": "Gélatine en feuilles"
+        },
+        {
+          "id": "reb0648d7a199",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Sel"
+        },
+        {
+          "id": "r7146d32c7e29",
+          "mercurialeId": "ree8f80577849",
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Poivre"
+        },
+        {
+          "id": "r4172a99e68e8",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Œufs de poisson, noisettes ou pignons (topping)"
+        }
+      ],
+      "steps": "1. Faire ramollir la gélatine dans l'eau froide 10 minutes.\n2. Chauffer la crème liquide à feu doux, ajouter le parmesan râpé, remuer jusqu'à dissolution complète. Assaisonner.\n3. Retirer du feu, incorporer la gélatine égouttée, bien mélanger.\n4. Verser dans des verrines, laisser refroidir puis réfrigérer au moins 4 heures.\n5. Servir avec des herbes fraîches, crackers ou pain grillé, un filet d'huile d'olive et des pignons grillés.",
+      "difficulty": "Facile",
+      "prepTime": 20,
+      "cookingSteps": [
+        {
+          "id": "r4517dbb1d784",
+          "mode": "Réfrigération",
+          "duration": 240
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "panna cotta salée",
+        "base"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "Variantes : ajouter une purée de légumes (tomate, poivron) ou du pesto pour une version colorée ; ajouter du chorizo grillé pour une version épicée."
+    },
+    {
+      "id": "r67b56ad2c6fb",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Pâte sucrée",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r2cbbb944dd8b",
+          "mercurialeId": "r5828e900301b",
+          "quantity": 225,
+          "unit": "g",
+          "name": "Beurre doux"
+        },
+        {
+          "id": "rd70b322fa74e",
+          "mercurialeId": "r657fcc87f688",
+          "quantity": 200,
+          "unit": "g",
+          "name": "Sucre glace"
+        },
+        {
+          "id": "r37f7acf668e3",
+          "mercurialeId": "rd7440ce8caba",
+          "quantity": 5,
+          "unit": "g",
+          "name": "Sel"
+        },
+        {
+          "id": "ra165cf066851",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 100,
+          "unit": "g",
+          "name": "Œufs"
+        },
+        {
+          "id": "r9926a47f5df4",
+          "mercurialeId": "rda22bc201335",
+          "quantity": 500,
+          "unit": "g",
+          "name": "Farine de blé"
+        },
+        {
+          "id": "r346c9c912150",
+          "mercurialeId": null,
+          "quantity": 5,
+          "unit": "g",
+          "name": "Levure (1/2 sachet)"
+        }
+      ],
+      "steps": "1. Mélanger le beurre, le sucre glace et le sel.\n2. Ajouter les œufs, puis la farine tamisée avec la levure.\n3. Mélanger jusqu'à obtenir une pâte homogène, sans trop la travailler.",
+      "difficulty": "Facile",
+      "prepTime": 15,
+      "cookingSteps": [],
+      "servings": 8,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "base",
+        "pâte"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": "100g d'œufs ≈ 2 œufs. Base réutilisable pour tartes sucrées."
+    },
+    {
+      "id": "r20dcb50fbc30",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Tiramisu",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "r42589b299f14",
+          "mercurialeId": "r6b8bcee1dac3",
+          "quantity": 6,
+          "unit": "pièce",
+          "name": "Œufs"
+        },
+        {
+          "id": "rdec89c151df9",
+          "mercurialeId": "rc16ead0ff526",
+          "quantity": 500,
+          "unit": "g",
+          "name": "Mascarpone"
+        },
+        {
+          "id": "r392462299292",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r2085f189bb69",
+          "mercurialeId": "rbd256a8b484a",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Sucre vanillé (sachet)"
+        },
+        {
+          "id": "r8cd4bb348c18",
+          "mercurialeId": null,
+          "quantity": 50,
+          "unit": "pièce",
+          "name": "Biscuits à la cuillère"
+        },
+        {
+          "id": "r16e7223bfd3c",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Café fort"
+        },
+        {
+          "id": "rb4172522b652",
+          "mercurialeId": null,
+          "quantity": "",
+          "unit": "pièce",
+          "name": "Cacao amer"
+        }
+      ],
+      "steps": "1. Séparer les blancs des jaunes d'œufs.\n2. Battre les jaunes avec le sucre jusqu'à obtenir un mélange mousseux et blanchi, ajouter le mascarpone.\n3. Battre les blancs en neige et les incorporer délicatement à la préparation.\n4. Tapisser le moule de biscuits à la cuillère préalablement trempés dans le café.\n5. Alterner les couches de mélange et de biscuits, terminer par le mélange.\n6. Préparer la veille pour le service.\n7. Saupoudrer de cacao amer au moment de servir.",
+      "difficulty": "Facile",
+      "prepTime": 25,
+      "cookingSteps": [
+        {
+          "id": "rebe83ca4c6ec",
+          "mode": "Repos (nuit)",
+          "duration": 480
+        }
+      ],
+      "servings": 10,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "classique",
+        "café"
+      ],
+      "variants": [],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    },
+    {
+      "id": "r1a925b06bb3d",
+      "createdAt": "2026-08-05T21:23:25.619419+00:00",
+      "updatedAt": "2026-08-05T21:23:25.619419+00:00",
+      "title": "Riz au lait",
+      "categories": [
+        "Dessert"
+      ],
+      "ingredients": [
+        {
+          "id": "rdf78cd1d15f2",
+          "mercurialeId": "r08361c45f3ee",
+          "quantity": 1000,
+          "unit": "ml",
+          "name": "Lait entier"
+        },
+        {
+          "id": "rb603f2fb44b5",
+          "mercurialeId": "r994eefb62da1",
+          "quantity": 200,
+          "unit": "ml",
+          "name": "Crème liquide entière"
+        },
+        {
+          "id": "rdc53b6e8f0fb",
+          "mercurialeId": "refb73dd59007",
+          "quantity": 150,
+          "unit": "g",
+          "name": "Riz rond"
+        },
+        {
+          "id": "r0706676eb402",
+          "mercurialeId": "rff0cbacd918f",
+          "quantity": 110,
+          "unit": "g",
+          "name": "Sucre en poudre"
+        },
+        {
+          "id": "r918c8f49b369",
+          "mercurialeId": "r1dc622f97660",
+          "quantity": 1,
+          "unit": "pièce",
+          "name": "Vanille (gousse ou extrait)"
+        }
+      ],
+      "steps": "1. Précuire le riz 10 minutes à l'eau bouillante.\n2. Égoutter puis cuire avec le lait, la crème, le sucre et la vanille à feu doux (ou au Thermomix : 90°C, 60 minutes, sens inverse, vitesse 2,5) en remuant régulièrement jusqu'à ce que le riz soit fondant.",
+      "difficulty": "Facile",
+      "prepTime": 10,
+      "cookingSteps": [
+        {
+          "id": "r18ce59b9fc9c",
+          "mode": "Cuisson douce",
+          "duration": 60
+        }
+      ],
+      "servings": 6,
+      "tested": false,
+      "rating": 0,
+      "favorite": false,
+      "source": "",
+      "tags": [
+        "classique",
+        "réconfortant"
+      ],
+      "variants": [
+        "Végétarien",
+        "Sans gluten"
+      ],
+      "cartes": [],
+      "history": [],
+      "photos": [],
+      "notes": ""
+    }
+  ],
+  "categories": [
+    "Entrée",
+    "Plat",
+    "Dessert",
+    "Boisson",
+    "Autre",
+    "Apéritif",
+    "Accompagnement",
+    "Pain",
+    "Garniture galette"
+  ],
+  "variantTags": [
+    "Végétarien",
+    "Végane",
+    "Sans gluten",
+    "Sans lactose"
+  ],
+  "mercuriale": [
+    {
+      "id": "r52875f8039b3",
+      "name": "Œufs durs",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rf624ab71d98b",
+      "name": "Thon égoutté (boîte)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r796ee605cac1",
+      "name": "Mayonnaise",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rd78c49added1",
+      "name": "Jus de citron",
+      "unitType": "piece",
+      "prices": [
+        {
+          "id": "rc8e901c0ee72",
+          "store": "Estimation (recette)",
+          "pricePerUnit": 0.8,
+          "conditionnement": "le citron",
+          "favorite": false,
+          "updatedAt": "2026-08-05T21:23:25.619419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "r813d172dd90d",
+      "name": "Persil frais",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r3d6db2904dbe",
+      "name": "Saumon fumé",
+      "unitType": "poids",
+      "prices": [
+        {
+          "id": "rd75bd7adaae7",
+          "store": "Estimation (recette)",
+          "pricePerUnit": 13.72,
+          "conditionnement": "chutes 900g pour 12,35€",
+          "favorite": false,
+          "updatedAt": "2026-08-05T21:23:25.619419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rfb5abd01d8b2",
+      "name": "Fromage frais",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r63b15b6eb2ea",
+      "name": "Aneth frais",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rfe734ef1f135",
+      "name": "Avocat",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rd7440ce8caba",
+      "name": "Sel",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "ree8f80577849",
+      "name": "Poivre",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r247229f74e7a",
+      "name": "Crevettes cuites décortiquées",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rddc30b2ac29a",
+      "name": "Ciboulette",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "ra227d74e55db",
+      "name": "Ail",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r8f248520efa4",
+      "name": "Fines herbes",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r438c456bb80a",
+      "name": "Poulet cuit",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "re66c63dc23c4",
+      "name": "Curry (épice)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r5474e933ce92",
+      "name": "Betterave cuite",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "reb4b3f2fcd89",
+      "name": "Jambon",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rea55ed44aa0c",
+      "name": "Sardines égouttées (boîte)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "re98cee6f9767",
+      "name": "Piment doux",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r7c9649837caa",
+      "name": "Fromage bleu",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rb6985a597aae",
+      "name": "Crème fraîche",
+      "unitType": "poids",
+      "prices": [
+        {
+          "id": "r8e0874acc744",
+          "store": "Estimation (recette)",
+          "pricePerUnit": 5.38,
+          "conditionnement": "~500ml pour 2,69€",
+          "favorite": false,
+          "updatedAt": "2026-08-05T21:23:25.619419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rbcece27bae22",
+      "name": "Noix concassées",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r45d3ecd9c3ea",
+      "name": "Tomate",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r8db755e9d811",
+      "name": "Basilic frais",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r3bf2b152ddac",
+      "name": "Carotte râpée",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r14e77102540f",
+      "name": "Cumin",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "re324e918daaf",
+      "name": "Champignons",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r21709c3d973a",
+      "name": "Poivron rouge grillé",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r5cca86491ca2",
+      "name": "Paprika",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rb33c2ecf48ca",
+      "name": "Feta",
+      "unitType": "poids",
+      "prices": [
+        {
+          "id": "r498d852c9256",
+          "store": "Estimation (recette)",
+          "pricePerUnit": 15.0,
+          "conditionnement": "~200g pour 3€",
+          "favorite": false,
+          "updatedAt": "2026-08-05T21:23:25.619419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rbe7ed9af22f2",
+      "name": "Concombre",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r3081d7f911a8",
+      "name": "Demi-œufs en chocolat blanc",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r784267f60ae7",
+      "name": "Mousse au chocolat (préparation)",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r51f3d7837907",
+      "name": "Copeaux de chocolat",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r68e43b544f8b",
+      "name": "Crème fouettée",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rb3c5dfa37310",
+      "name": "Cacao",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r5828e900301b",
+      "name": "Beurre doux",
+      "unitType": "poids",
+      "prices": [
+        {
+          "id": "r8c02469365c6",
+          "store": "Estimation (recette)",
+          "pricePerUnit": 12.8,
+          "conditionnement": "plaquette 250g à 3,20€",
+          "favorite": false,
+          "updatedAt": "2026-08-05T21:23:25.619419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rc45c47e6ee86",
+      "name": "Beurre demi-sel",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rff0cbacd918f",
+      "name": "Sucre en poudre",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r657fcc87f688",
+      "name": "Sucre glace",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r1da2674da05f",
+      "name": "Sucre roux / vergeoise",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rbd256a8b484a",
+      "name": "Sucre vanillé (sachet)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rda22bc201335",
+      "name": "Farine de blé",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r1b919f064827",
+      "name": "Levure chimique (sachet)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r6b8bcee1dac3",
+      "name": "Œufs",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r994eefb62da1",
+      "name": "Crème liquide entière",
+      "unitType": "volume",
+      "prices": []
+    },
+    {
+      "id": "r08361c45f3ee",
+      "name": "Lait entier",
+      "unitType": "volume",
+      "prices": []
+    },
+    {
+      "id": "r1e723d4c866f",
+      "name": "Gélatine en feuilles",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rd74aaf6bd645",
+      "name": "Chocolat noir",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rca6546dca850",
+      "name": "Poudre d'amandes",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r643c7322264d",
+      "name": "Amandes (effilées/entières)",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r33b6f58f8a8d",
+      "name": "Noisettes",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r8bc814a1dc63",
+      "name": "Pistaches",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r1dc622f97660",
+      "name": "Vanille (gousse ou extrait)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rc16ead0ff526",
+      "name": "Mascarpone",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r1fe8a3f45975",
+      "name": "Maïs en conserve",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r9dda083a7756",
+      "name": "Mozzarella",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rf6800cda68f8",
+      "name": "Fromage à la crème (type Philadelphia)",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r444170267935",
+      "name": "Laitue / salade",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rae61952cd4a0",
+      "name": "Oignon rouge",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r001f18530140",
+      "name": "Oignon",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r8e8bc8bb9387",
+      "name": "Brocolis",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r65056288d4d2",
+      "name": "Huile d'olive",
+      "unitType": "volume",
+      "prices": []
+    },
+    {
+      "id": "r5172bf976447",
+      "name": "Pâte feuilletée",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r051109f0ecc4",
+      "name": "Clémentine",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r647b48b9f1ed",
+      "name": "Pêches au sirop (boîte)",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r7ca43163e0ec",
+      "name": "Thon en boîte",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "refb73dd59007",
+      "name": "Riz rond",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rb813bfda0252",
+      "name": "Raisins secs",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rd9d8f18e172a",
+      "name": "Écorces d'agrumes confites",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r4418dbf1a5b5",
+      "name": "Pralines roses concassées",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r6a0a6cfcfe3e",
+      "name": "Noix",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rf408d7eb23b0",
+      "name": "Biscuits type Digestive/Palet Breton",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rcfdc6b0c5e92",
+      "name": "Courge",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rf63a9c896bec",
+      "name": "Romarin frais",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r4ce2dfb2ec43",
+      "name": "Cardamome moulue",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r78bfc28db26c",
+      "name": "Chorizo",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r957be7558ede",
+      "name": "Parmesan râpé",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "re6b3df5d4733",
+      "name": "Graines de sarrasin",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r8b09bbe8479d",
+      "name": "Graines (lin, sésame, tournesol...)",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r71b18d43be67",
+      "name": "Flocons d'avoine",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r5a89ab39f2dd",
+      "name": "Psyllium",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "re456de96db09",
+      "name": "Bicarbonate alimentaire",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r353c426d51d9",
+      "name": "Yaourt nature",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r448112f0ffaa",
+      "name": "Banane",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r189e787ab477",
+      "name": "Pomme",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r9c3e728526c0",
+      "name": "Poire",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rb97cc5969841",
+      "name": "Chou-fleur",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rfc732bb0bfda",
+      "name": "Patate douce",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r614945b28595",
+      "name": "Fenouil",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rbbf7b27b9c59",
+      "name": "Courgette",
+      "unitType": "piece",
+      "prices": [
+        {
+          "id": "r05086e26b782",
+          "store": "Estimation (recette)",
+          "pricePerUnit": 3.75,
+          "conditionnement": "~400g pour 1,50€",
+          "favorite": false,
+          "updatedAt": "2026-08-05T21:23:25.619419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "r74d36f53ee95",
+      "name": "Poireau",
+      "unitType": "poids",
+      "prices": [
+        {
+          "id": "rf37202614256",
+          "store": "Estimation (recette)",
+          "pricePerUnit": 3.26,
+          "conditionnement": "~3,56kg pour 11,61€",
+          "favorite": false,
+          "updatedAt": "2026-08-05T21:23:25.619419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "r6ea4c0ec9a85",
+      "name": "Moutarde de Dijon",
+      "unitType": "volume",
+      "prices": []
+    },
+    {
+      "id": "r76e339a14ce0",
+      "name": "Pois chiches en boîte",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r6624b58fce15",
+      "name": "Chapelure",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rbaeb4d28183d",
+      "name": "Farine de pois chiches",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r6dcee552902d",
+      "name": "Lardons fumés",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "rf493caf2c6af",
+      "name": "Camembert",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "rd7b943c3ea73",
+      "name": "Gruyère râpé",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r830dc34cb49d",
+      "name": "Pain de mie",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "red151e903cae",
+      "name": "Glucose",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r76e140c80b39",
+      "name": "Menthe fraîche",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "ra9fc58b806e0",
+      "name": "Purée de fruits",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r8cbf60743ee4",
+      "name": "Pectine jaune",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "re6d2d227e511",
+      "name": "Acide citrique",
+      "unitType": "poids",
+      "prices": []
+    },
+    {
+      "id": "r36c21576912e",
+      "name": "Poudre de matcha",
+      "unitType": "piece",
+      "prices": []
+    },
+    {
+      "id": "r875e9c28c299",
+      "name": "Lait d'amande",
+      "unitType": "volume",
+      "prices": []
+    },
+    {
+      "id": "rc70ec8af341f",
+      "name": "Purée d'amande blanche",
+      "unitType": "poids",
+      "prices": []
+    }
+  ],
+  "priceStrategy": "moyenne"
+}
