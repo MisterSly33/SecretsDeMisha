@@ -1,4 +1,4 @@
-const CACHE_NAME = "secrets-de-misha-2026-9";
+const CACHE_NAME = "secrets-de-misha-2026-10";
 const ASSETS = [
   "./index.html",
   "./manifest.json",
@@ -23,6 +23,23 @@ self.addEventListener("activate", (event) => {
 });
 
 self.addEventListener("fetch", (event) => {
+  // Navigation (chargement de la page) : réseau en priorité, pour toujours
+  // récupérer la dernière version quand il y a du réseau. Le cache ne sert
+  // que de secours hors-ligne.
+  if (event.request.mode === "navigate") {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          return response;
+        })
+        .catch(() => caches.match(event.request).then((cached) => cached || caches.match("./index.html")))
+    );
+    return;
+  }
+
+  // Autres ressources (manifest, icônes) : cache en priorité, réseau en secours.
   event.respondWith(
     caches.match(event.request).then((cached) => {
       if (cached) return cached;
