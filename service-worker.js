@@ -1,4 +1,4 @@
-const CACHE_NAME = "secrets-de-misha-2026-26";
+const CACHE_NAME = "secrets-de-misha-2026-27";
 const ASSETS = [
   "./index.html",
   "./manifest.json",
